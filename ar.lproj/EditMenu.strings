@@ -1,0 +1,36 @@
+
+/* Class = "IBUIButton"; normalTitle = "Edit Workout"; ObjectID = "3Qi-oK-kFB"; */
+"3Qi-oK-kFB.normalTitle" = "Edit Workout";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "NhO-JF-chm"; */
+"NhO-JF-chm.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "John Doe"; ObjectID = "Pez-Zg-lVM"; */
+"Pez-Zg-lVM.text" = "John Doe";
+
+/* Class = "IBUIButton"; normalTitle = "Add a Workout"; ObjectID = "VHS-lL-Bwa"; */
+"VHS-lL-Bwa.normalTitle" = "Add a Workout";
+
+/* Class = "IBUIButton"; normalTitle = "Workout Library"; ObjectID = "Vcq-pR-onA"; */
+"Vcq-pR-onA.normalTitle" = "Workout Library";
+
+/* Class = "IBUIButton"; normalTitle = "My Activities"; ObjectID = "Xda-fm-cYs"; */
+"Xda-fm-cYs.normalTitle" = "My Activities";
+
+/* Class = "IBUIButton"; normalTitle = "Delete Workout"; ObjectID = "h0e-WN-Av3"; */
+"h0e-WN-Av3.normalTitle" = "Delete Workout";
+
+/* Class = "IBUIButton"; normalTitle = "Get a Trainer"; ObjectID = "ibC-mc-PGa"; */
+"ibC-mc-PGa.normalTitle" = "Get a Trainer";
+
+/* Class = "IBUIButton"; normalTitle = "Copy Workout"; ObjectID = "ikF-FH-NCq"; */
+"ikF-FH-NCq.normalTitle" = "Copy Workout";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum."; ObjectID = "m6M-RH-B5I"; */
+"m6M-RH-B5I.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum.";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "vgy-0Q-gf1"; */
+"vgy-0Q-gf1.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Achievements"; ObjectID = "weC-Sn-jWo"; */
+"weC-Sn-jWo.normalTitle" = "Achievements";

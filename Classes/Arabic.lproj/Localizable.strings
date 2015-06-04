@@ -1,0 +1,124 @@
+/*
+ Localizable.strings
+ WorkMeOut
+ 
+ Created by LiKaShing on 28/2/15.
+ Copyright (c) 2015 LiKaShing. All rights reserved.
+ */
+
+"Select your language"              = "اختر لغتك";
+"Get Started"                       = "ابدأ الآن";
+"Login"                             = "تسجيل الدخول";
+
+// SignUp
+
+"Sign Up"                           = "متدرب جديد";
+"Name"                              = "الاسم";
+"Phone"                             = "الهاتف";
+"Optional"                          = "(اختياري)";
+"Email"                             = "البريد الإلكتروني";
+"Gender"                            = "النوع";
+"Date of birth"                     = "تاريخ الميلاد";
+"Nationality"                       = "الجنسية";
+"Country of residence"              = "بلد الإقامة";
+"I accept the "                     = "أوافق على شروط ";
+"Terms"                             = "الاستخدام";
+"Submit"                            = "تسجيل";
+
+// Welcome
+"Welcome"                           = "ترحيب";
+"Managed By"                        = "إدارة";
+"Continue"                          = "استمرار";
+
+// Login
+"Username"                          = "اسم المستخدم";
+"Password"                          = "كلمة المرور";
+"Forgot"                            = "ل نسيت";
+"Forgot Password ?"                 = "هل نسيت كلمة المرور ؟";
+"Sign Up"                           = "تسجيل متدرب جديد";
+"Login"                             = "تسجيل الدخول";
+"Invalid email / password, please try again." = "اسم المستخدم / كلمة المرور خطأ، برجاء إعادة المحاولة";
+
+// Forgot Password
+"Forgot Password"                 = "هل نسيت كلمة المرور ؟";
+
+"forgot_alert01" = "برجاء إدخال بريدك الإلكتورني الذي أنشات به حسابك على البرنامج لكي تحصل على بيانات تغيير كلمة المرور من خلاله";
+
+"forgot_alert02" = "من فضلك أدخل رقم هاتفك المحمول وسنرسل لك إرشادات تغيير كلمة المرور عبر رسالة نصية قصيرة";
+
+"Submit"                            = "إرسال";
+
+// DashBoard
+"Dashboard"                         = "الرئيسية";
+"My Profile"                        = "بياناتي";
+"View Profile"                      = "عرض البيانات";
+"Start Building Workouts"           = "أضف برنامجك الرياضي";
+"Workouts (ongoing)"                = "(برامج التمرين (الحالية";
+"View all"                          = "عرض الجميع ";
+"Go to workout"                     = "ابدأ التمرين";
+"View Diet Plan"                    = "عرض خطة الغذاء";
+"Get assisted by a trainer"         = "أحصل على مساعدة مدرب";
+"Achievements"                      = "الإنجازات";
+"Before / After"                    = "قبل وبعد";
+"Restaurants"                       = "المطاعم";
+"Workout Library"                   = "مكتبة التمارين";
+"Directory"                         = "صالات ومتاجر";
+"Articles"                          = "مواضيع";
+"Ask Us"                            = "اسألنا";
+
+// Select Trainer
+"Our Trainers"                      = "مدربينا";
+"I am an international customer"    = "أنا عميل دوليد";
+"Book a meeting"                    = "احجز مقابلة";
+
+// Trainer`s Calendar
+"Select Program & Date"             = "اختيار البرنامج والموعد";
+"Select an appropriate program"     = "اختر البرنامج المناسب لك";
+"Select an appropriate date for the meeting" = "اختر التاريخ المناسب للمقابلة";
+
+"Available"                         = "متاح";
+"Unavailable"                       = "غير متاح";
+"Next"                              = "التالي";
+
+// Book a Meeting
+"Trainer :"                         = "المدرب :";
+"Program selected :"                = "البرنامج المختار :";
+"Amount to pay :"                   = "قيمة الدفع :";
+"Time"                              = "الوقت";
+"Select an appropriate meeting time" = "اختر الوقت المناسب للمقابلة";
+"AM , PM"                           = "صباحاً، مساءً";
+"Payment Method"                    = "طريقة الدفع";
+"Apple Store"                       = "متجر آبل";
+"Play Store"                        = "متجر بلاي";
+"KNET"                              = "KNET";
+"Submit"                            = "إرسال";
+"Success!"                          = "تمت العملية بنجاح!";
+"Book_alert01" = "تمت عملية الدفع بنجاح. وتم حجز موعد المقابلة مع المدرب: <الاسم> الوقت: 10:30 صباحًا في اليوم/الشهر/السنة";
+"Close"                             = "إغلاق";
+
+// Workout Library
+"Exercises Library"                 = "مكتبة التمارين";
+"Abdominal"                         = "البطن";
+"Calves"                            = "العجول";
+"Hamstring"                         = "أوتار المأبض";
+"Quadriceps"                        = "عضلات الفخذ";
+"Trapezius"                         = "شبه المنحرفة";
+"Triceps"                           = "التراي";
+"Biceps"                            = "الباي";
+"Shoulders"                         = "الأكتاف";
+"Chest"                             = "الصدر";
+"Back"                              = "الظهر";
+"Forearms"                          = "السواعد";
+"Gluts"                             = "الأفخاذ";
+"Abs"                               = "البطن";
+"Lower Legs"                        = "(الأرجل (سفلي";
+"Upper Legs"                        = "(الأرجل (علوي";
+"Cardio"                            = "التمارين الهوائية";
+"All"                               = "الكل";
+
+
+
+
+
+
+

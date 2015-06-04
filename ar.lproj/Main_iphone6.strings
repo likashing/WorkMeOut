@@ -1,0 +1,1350 @@
+
+/* Class = "IBUILabel"; text = "Barbell Bench Press"; ObjectID = "07s-lV-y65"; */
+"07s-lV-y65.text" = "Barbell Bench Press";
+
+/* Class = "IBUILabel"; text = "(Member since: mm/dd/yy)"; ObjectID = "08N-a3-ZWJ"; */
+"08N-a3-ZWJ.text" = "(Member since: mm/dd/yy)";
+
+/* Class = "IBUINavigationItem"; title = "Sign Up"; ObjectID = "0D1-a7-FsT"; */
+"0D1-a7-FsT.title" = "Sign Up";
+
+/* Class = "IBUILabel"; text = "Countdown"; ObjectID = "0GW-kg-LMF"; */
+"0GW-kg-LMF.text" = "Countdown";
+
+/* Class = "IBUILabel"; text = "The longer you work, the more you earn."; ObjectID = "0J8-OX-UfX"; */
+"0J8-OX-UfX.text" = "The longer you work, the more you earn.";
+
+/* Class = "IBUINavigationItem"; title = "My Photos"; ObjectID = "0e0-CN-PR0"; */
+"0e0-CN-PR0.title" = "My Photos";
+
+/* Class = "IBUIBarButtonItem"; title = "Done"; ObjectID = "0je-gA-8f9"; */
+"0je-gA-8f9.title" = "Done";
+
+/* Class = "IBUILabel"; text = "Terms of Service"; ObjectID = "0qM-xJ-IrV"; */
+"0qM-xJ-IrV.text" = "Terms of Service";
+
+/* Class = "IBUITextField"; placeholder = "- Sort By -"; ObjectID = "1FP-4R-aB1"; */
+"1FP-4R-aB1.placeholder" = "- Sort By -";
+
+/* Class = "IBUINavigationItem"; title = "Our Trainers"; ObjectID = "1Ka-sB-Pun"; */
+"1Ka-sB-Pun.title" = "Our Trainers";
+
+/* Class = "IBUIButton"; normalTitle = "Edit Workout"; ObjectID = "1m8-v5-JW4"; */
+"1m8-v5-JW4.normalTitle" = "Edit Workout";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "1uo-dF-yUr"; */
+"1uo-dF-yUr.normalTitle" = "Chest";
+
+/* Class = "IBUITextField"; placeholder = "**********"; ObjectID = "1yL-UJ-XbI"; */
+"1yL-UJ-XbI.placeholder" = "**********";
+
+/* Class = "IBUILabel"; text = "TUE"; ObjectID = "1zz-WW-RDG"; */
+"1zz-WW-RDG.text" = "TUE";
+
+/* Class = "IBUIButton"; normalTitle = "In Progress"; ObjectID = "22J-Oi-fQ9"; */
+"22J-Oi-fQ9.normalTitle" = "In Progress";
+
+/* Class = "IBUINavigationItem"; title = "MyProfile"; ObjectID = "2JE-M6-DF4"; */
+"2JE-M6-DF4.title" = "MyProfile";
+
+/* Class = "IBUILabel"; text = "All"; ObjectID = "2Rj-fr-TAJ"; */
+"2Rj-fr-TAJ.text" = "All";
+
+/* Class = "IBUILabel"; text = "$ X"; ObjectID = "2bd-iK-Qvg"; */
+"2bd-iK-Qvg.text" = "$ X";
+
+/* Class = "IBUILabel"; text = "@instagram-name"; ObjectID = "2oE-r9-LNN"; */
+"2oE-r9-LNN.text" = "@instagram-name";
+
+/* Class = "IBUILabel"; text = "Include some comments for this program"; ObjectID = "2qA-e2-YkU"; */
+"2qA-e2-YkU.text" = "Include some comments for this program";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "2wg-bn-Jwp"; */
+"2wg-bn-Jwp.text" = "Save";
+
+/* Class = "IBUILabel"; text = "Hamstring"; ObjectID = "390-Vj-hWI"; */
+"390-Vj-hWI.text" = "Hamstring";
+
+/* Class = "IBUILabel"; text = "120:00"; ObjectID = "3NG-cH-7dA"; */
+"3NG-cH-7dA.text" = "120:00";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "3NZ-9Q-BAj"; */
+"3NZ-9Q-BAj.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "3St-bG-gFf"; */
+"3St-bG-gFf.text" = "1";
+
+/* Class = "IBUILabel"; text = "Amount to pay:"; ObjectID = "3Ya-h1-VtO"; */
+"3Ya-h1-VtO.text" = "Amount to pay:";
+
+/* Class = "IBUILabel"; text = "Dana "; ObjectID = "3jP-bM-xmn"; */
+"3jP-bM-xmn.text" = "Dana ";
+
+/* Class = "IBUILabel"; text = "Trapezius"; ObjectID = "3jw-CR-UHq"; */
+"3jw-CR-UHq.text" = "Trapezius";
+
+/* Class = "IBUILabel"; text = "Very healthy"; ObjectID = "3lD-cv-K1v"; */
+"3lD-cv-K1v.text" = "Very healthy";
+
+/* Class = "IBUINavigationItem"; title = "Exercise Setting"; ObjectID = "3m7-ID-RYE"; */
+"3m7-ID-RYE.title" = "Exercise Setting";
+
+/* Class = "IBUINavigationItem"; title = "Healthy Choices"; ObjectID = "4Fn-xN-Ii9"; */
+"4Fn-xN-Ii9.title" = "Healthy Choices";
+
+/* Class = "IBUILabel"; text = "(Member since: mm/dd/yy)"; ObjectID = "4JD-wc-199"; */
+"4JD-wc-199.text" = "(Member since: mm/dd/yy)";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "4Rd-eX-xbt"; */
+"4Rd-eX-xbt.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "4TK-S1-1pd"; */
+"4TK-S1-1pd.text" = "Type";
+
+/* Class = "IBUITextField"; placeholder = "- Select Program -"; ObjectID = "4Yd-In-Nd7"; */
+"4Yd-In-Nd7.placeholder" = "- Select Program -";
+
+/* Class = "IBUIButton"; normalTitle = "Delete Workout"; ObjectID = "4ki-cO-IRP"; */
+"4ki-cO-IRP.normalTitle" = "Delete Workout";
+
+/* Class = "IBUIButton"; normalTitle = "Exercise LIst"; ObjectID = "4v7-aq-QmP"; */
+"4v7-aq-QmP.normalTitle" = "Exercise LIst";
+
+/* Class = "IBUIButton"; selectedTitle = "Exercise LIst"; ObjectID = "4v7-aq-QmP"; */
+"4v7-aq-QmP.selectedTitle" = "Exercise LIst";
+
+/* Class = "IBUITextField"; placeholder = "Beginner"; ObjectID = "4wi-GP-aof"; */
+"4wi-GP-aof.placeholder" = "Beginner";
+
+/* Class = "IBUILabel"; text = "Select your gender"; ObjectID = "56f-9D-YVr"; */
+"56f-9D-YVr.text" = "Select your gender";
+
+/* Class = "IBUILabel"; text = "Enter an appropriate program name"; ObjectID = "59V-fx-r6f"; */
+"59V-fx-r6f.text" = "Enter an appropriate program name";
+
+/* Class = "IBUITextField"; placeholder = "Km/h"; ObjectID = "5gP-1k-GoJ"; */
+"5gP-1k-GoJ.placeholder" = "Km/h";
+
+/* Class = "IBUIButton"; normalTitle = "Get a Trainer"; ObjectID = "5pJ-dQ-uFq"; */
+"5pJ-dQ-uFq.normalTitle" = "Get a Trainer";
+
+/* Class = "IBUIBarButtonItem"; title = "Menu"; ObjectID = "5qA-Zp-acM"; */
+"5qA-Zp-acM.title" = "Menu";
+
+/* Class = "IBUINavigationItem"; title = "Select Program & Date"; ObjectID = "5zK-cd-IVk"; */
+"5zK-cd-IVk.title" = "Select Program & Date";
+
+/* Class = "IBUILabel"; text = "One line description of store"; ObjectID = "64w-zZ-tBQ"; */
+"64w-zZ-tBQ.text" = "One line description of store";
+
+/* Class = "IBUILabel"; text = "Article Heading"; ObjectID = "660-hc-K7l"; */
+"660-hc-K7l.text" = "Article Heading";
+
+/* Class = "IBUILabel"; text = "Gender"; ObjectID = "6je-oD-2dB"; */
+"6je-oD-2dB.text" = "Gender";
+
+/* Class = "IBUILabel"; text = "Include some comments for this program"; ObjectID = "6lg-0v-wNI"; */
+"6lg-0v-wNI.text" = "Include some comments for this program";
+
+/* Class = "IBUILabel"; text = "Secondary Muscle:"; ObjectID = "6pf-Lm-7AE"; */
+"6pf-Lm-7AE.text" = "Secondary Muscle:";
+
+/* Class = "IBUILabel"; text = "Enter your height"; ObjectID = "6pm-ur-Wk2"; */
+"6pm-ur-Wk2.text" = "Enter your height";
+
+/* Class = "IBUILabel"; text = "Supplement Stores"; ObjectID = "6xR-uR-kZJ"; */
+"6xR-uR-kZJ.text" = "Supplement Stores";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "71L-2D-9xo"; */
+"71L-2D-9xo.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "Select a Workout day"; ObjectID = "71w-zW-x11"; */
+"71w-zW-x11.text" = "Select a Workout day";
+
+/* Class = "IBUITextField"; placeholder = "Email or Phone number"; ObjectID = "7AJ-cc-d9o"; */
+"7AJ-cc-d9o.placeholder" = "Email or Phone number";
+
+/* Class = "IBUINavigationItem"; title = "Restaurants"; ObjectID = "7Cs-0E-zmL"; */
+"7Cs-0E-zmL.title" = "Restaurants";
+
+/* Class = "IBUITextField"; placeholder = "********"; ObjectID = "7Hd-1C-uu9"; */
+"7Hd-1C-uu9.placeholder" = "********";
+
+/* Class = "IBUITextField"; placeholder = "- Select - "; ObjectID = "7PW-0F-wdR"; */
+"7PW-0F-wdR.placeholder" = "- Select - ";
+
+/* Class = "IBUILabel"; text = "Create Schedule"; ObjectID = "7a4-G8-kMe"; */
+"7a4-G8-kMe.text" = "Create Schedule";
+
+/* Class = "IBUIButton"; normalTitle = "Descriptionu"; ObjectID = "7i3-8h-ySq"; */
+"7i3-8h-ySq.normalTitle" = "Descriptionu";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "81P-JE-Cdj"; */
+"81P-JE-Cdj.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "terms"; ObjectID = "8Ay-Nz-28d"; */
+"8Ay-Nz-28d.normalTitle" = "terms";
+
+/* Class = "IBUITextView"; text = " Salads  -Roasted Chicken patty, -1/2 cup plain yogurt -Cucumber, Avocardo, Green -Lettuce, Swiss cheese -Snacks: Apple, 14 Almonds"; ObjectID = "8Ol-rm-m7y"; */
+"8Ol-rm-m7y.text" = " Salads  -Roasted Chicken patty, -1/2 cup plain yogurt -Cucumber, Avocardo, Green -Lettuce, Swiss cheese -Snacks: Apple, 14 Almonds";
+
+/* Class = "IBUILabel"; text = "Book  a meeting"; ObjectID = "8ZV-8d-qo2"; */
+"8ZV-8d-qo2.text" = "Book  a meeting";
+
+/* Class = "IBUILabel"; text = "Duration :"; ObjectID = "8bs-6J-ZNm"; */
+"8bs-6J-ZNm.text" = "Duration :";
+
+/* Class = "IBUIButton"; normalTitle = "Favourite Exercises"; ObjectID = "8r2-sk-dPc"; */
+"8r2-sk-dPc.normalTitle" = "Favourite Exercises";
+
+/* Class = "IBUILabel"; text = "I am an international customer"; ObjectID = "8vF-8K-Igh"; */
+"8vF-8K-Igh.text" = "I am an international customer";
+
+/* Class = "IBUINavigationItem"; title = "Terms"; ObjectID = "8zp-oK-DeW"; */
+"8zp-oK-DeW.title" = "Terms";
+
+/* Class = "IBUITextField"; placeholder = "  58"; ObjectID = "95X-50-1h7"; */
+"95X-50-1h7.placeholder" = "  58";
+
+/* Class = "IBUILabel"; text = "Enter name of food item you are don`t like to"; ObjectID = "9Ci-9A-OKk"; */
+"9Ci-9A-OKk.text" = "Enter name of food item you are don`t like to";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "9IW-Sq-BwC"; */
+"9IW-Sq-BwC.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Calves"; ObjectID = "9LV-jX-dJk"; */
+"9LV-jX-dJk.text" = "Calves";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "9Nn-rG-xLb"; */
+"9Nn-rG-xLb.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "9ed-gp-sec"; */
+"9ed-gp-sec.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "Difficulty"; ObjectID = "9pp-n6-T2g"; */
+"9pp-n6-T2g.text" = "Difficulty";
+
+/* Class = "IBUILabel"; text = "(optional)"; ObjectID = "9yB-sY-SeN"; */
+"9yB-sY-SeN.text" = "(optional)";
+
+/* Class = "IBUILabel"; text = "Select birthday"; ObjectID = "9zD-me-g7V"; */
+"9zD-me-g7V.text" = "Select birthday";
+
+/* Class = "IBUINavigationItem"; title = "My Photos"; ObjectID = "AND-d3-YPT"; */
+"AND-d3-YPT.title" = "My Photos";
+
+/* Class = "IBUILabel"; text = "Are you fat? Do you want to burn that belly? This is the right choose for you."; ObjectID = "ATr-U6-Gr5"; */
+"ATr-U6-Gr5.text" = "Are you fat? Do you want to burn that belly? This is the right choose for you.";
+
+/* Class = "IBUILabel"; text = "My Health Condition"; ObjectID = "AXJ-mD-o8q"; */
+"AXJ-mD-o8q.text" = "My Health Condition";
+
+/* Class = "IBUILabel"; text = "Secondary Muscle:"; ObjectID = "Anv-Bf-Smh"; */
+"Anv-Bf-Smh.text" = "Secondary Muscle:";
+
+/* Class = "IBUILabel"; text = "Biceps"; ObjectID = "AyX-1q-9ZY"; */
+"AyX-1q-9ZY.text" = "Biceps";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "B36-Uw-9YZ"; */
+"B36-Uw-9YZ.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Get a Trainer"; ObjectID = "B5x-cS-3aD"; */
+"B5x-cS-3aD.normalTitle" = "Get a Trainer";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "BBb-2O-pYq"; */
+"BBb-2O-pYq.normalTitle" = "Chest";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "BJF-bW-vfx"; */
+"BJF-bW-vfx.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Calorie:"; ObjectID = "Ber-03-IBZ"; */
+"Ber-03-IBZ.text" = "Calorie:";
+
+/* Class = "IBUIButton"; normalTitle = "Submit"; ObjectID = "BvE-0t-Igz"; */
+"BvE-0t-Igz.normalTitle" = "Submit";
+
+/* Class = "IBUIButton"; selectedTitle = "Submit"; ObjectID = "BvE-0t-Igz"; */
+"BvE-0t-Igz.selectedTitle" = "Submit";
+
+/* Class = "IBUILabel"; text = "After"; ObjectID = "C3I-aT-bS4"; */
+"C3I-aT-bS4.text" = "After";
+
+/* Class = "IBUITextView"; text = " Salads  -Roasted Chicken patty, -1/2 cup plain yogurt -Cucumber, Avocardo, Green -Lettuce, Swiss cheese -Snacks: Apple, 14 Almonds"; ObjectID = "CRD-Cf-EAS"; */
+"CRD-Cf-EAS.text" = " Salads  -Roasted Chicken patty, -1/2 cup plain yogurt -Cucumber, Avocardo, Green -Lettuce, Swiss cheese -Snacks: Apple, 14 Almonds";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "CT7-mb-yk0"; */
+"CT7-mb-yk0.text" = "Save";
+
+/* Class = "IBUILabel"; text = "Male"; ObjectID = "CeI-Kb-lU5"; */
+"CeI-Kb-lU5.text" = "Male";
+
+/* Class = "IBUINavigationItem"; title = "Body Sub Part"; ObjectID = "Cnp-3m-lwK"; */
+"Cnp-3m-lwK.title" = "Body Sub Part";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "DGi-Bp-X82"; */
+"DGi-Bp-X82.text" = "Save";
+
+/* Class = "IBUILabel"; text = "Rep:"; ObjectID = "DHS-2b-Moe"; */
+"DHS-2b-Moe.text" = "Rep:";
+
+/* Class = "IBUITextField"; placeholder = "  168"; ObjectID = "DiE-95-IpM"; */
+"DiE-95-IpM.placeholder" = "  168";
+
+/* Class = "IBUINavigationItem"; title = "Edit Allergic Info"; ObjectID = "E2f-jM-6OG"; */
+"E2f-jM-6OG.title" = "Edit Allergic Info";
+
+/* Class = "IBUINavigationItem"; title = "Suplements Store"; ObjectID = "E4C-rA-nDY"; */
+"E4C-rA-nDY.title" = "Suplements Store";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "EAv-R1-RmX"; */
+"EAv-R1-RmX.normalTitle" = "Button";
+
+/* Class = "IBUINavigationItem"; title = "Gym Directories"; ObjectID = "EHf-mR-VLd"; */
+"EHf-mR-VLd.title" = "Gym Directories";
+
+/* Class = "IBUIButton"; normalTitle = "Comments"; ObjectID = "ERe-Qs-PLN"; */
+"ERe-Qs-PLN.normalTitle" = "Comments";
+
+/* Class = "IBUIButton"; selectedTitle = "Comments"; ObjectID = "ERe-Qs-PLN"; */
+"ERe-Qs-PLN.selectedTitle" = "Comments";
+
+/* Class = "IBUILabel"; text = "This program will get you big and musclar."; ObjectID = "EbY-pH-Piz"; */
+"EbY-pH-Piz.text" = "This program will get you big and musclar.";
+
+/* Class = "IBUILabel"; text = "Stand with your feet close together with arms by your sides."; ObjectID = "Ebz-Qt-Cl6"; */
+"Ebz-Qt-Cl6.text" = "Stand with your feet close together with arms by your sides.";
+
+/* Class = "IBUITextField"; placeholder = "- Select - "; ObjectID = "Ec8-ia-G3e"; */
+"Ec8-ia-G3e.placeholder" = "- Select - ";
+
+/* Class = "IBUILabel"; text = "Biceps"; ObjectID = "Eee-s2-wxR"; */
+"Eee-s2-wxR.text" = "Biceps";
+
+/* Class = "IBUINavigationItem"; title = "Edit Program"; ObjectID = "Efg-HN-EnF"; */
+"Efg-HN-EnF.title" = "Edit Program";
+
+/* Class = "IBUILabel"; text = "Book  a meeting"; ObjectID = "F3P-kb-RgM"; */
+"F3P-kb-RgM.text" = "Book  a meeting";
+
+/* Class = "IBUIButton"; normalTitle = "Favourite Exercises"; ObjectID = "FTP-Wm-wri"; */
+"FTP-Wm-wri.normalTitle" = "Favourite Exercises";
+
+/* Class = "IBUITextView"; text = " 6`Breakfast Sandwich  -Roasted garlic bread -Chicken strip -Egg white patty -Lettuce, Onion, Olives -Light mayonnaise"; ObjectID = "FXp-hH-tC0"; */
+"FXp-hH-tC0.text" = " 6`Breakfast Sandwich  -Roasted garlic bread -Chicken strip -Egg white patty -Lettuce, Onion, Olives -Light mayonnaise";
+
+/* Class = "IBUINavigationItem"; title = "Create Schedule"; ObjectID = "FiP-iC-4Sw"; */
+"FiP-iC-4Sw.title" = "Create Schedule";
+
+/* Class = "IBUILabel"; text = "cm"; ObjectID = "FoR-vh-5x2"; */
+"FoR-vh-5x2.text" = "cm";
+
+/* Class = "IBUILabel"; text = "Before"; ObjectID = "Ft9-Cr-NxU"; */
+"Ft9-Cr-NxU.text" = "Before";
+
+/* Class = "IBUILabel"; text = "Before"; ObjectID = "G9R-i4-8e1"; */
+"G9R-i4-8e1.text" = "Before";
+
+/* Class = "IBUILabel"; text = "(Member since: mm/dd/yy)"; ObjectID = "GEQ-0j-pRc"; */
+"GEQ-0j-pRc.text" = "(Member since: mm/dd/yy)";
+
+/* Class = "IBUILabel"; text = "End Workout"; ObjectID = "GMH-dp-zE2"; */
+"GMH-dp-zE2.text" = "End Workout";
+
+/* Class = "IBUILabel"; text = "Lap/Rep:"; ObjectID = "GfX-24-S5x"; */
+"GfX-24-S5x.text" = "Lap/Rep:";
+
+/* Class = "IBUINavigationItem"; title = "Create Program"; ObjectID = "Gjp-XS-v3n"; */
+"Gjp-XS-v3n.title" = "Create Program";
+
+/* Class = "IBUITextField"; placeholder = "9:00"; ObjectID = "Gn0-MZ-rdp"; */
+"Gn0-MZ-rdp.placeholder" = "9:00";
+
+/* Class = "IBUILabel"; text = "Back, Biceps and Forearm"; ObjectID = "GqN-gK-i3m"; */
+"GqN-gK-i3m.text" = "Back, Biceps and Forearm";
+
+/* Class = "IBUILabel"; text = "Views"; ObjectID = "Gy0-r0-pXO"; */
+"Gy0-r0-pXO.text" = "Views";
+
+/* Class = "IBUILabel"; text = "End Workout"; ObjectID = "H1K-Me-bpa"; */
+"H1K-Me-bpa.text" = "End Workout";
+
+/* Class = "IBUILabel"; text = "Primary Muscle:"; ObjectID = "HOk-11-iiF"; */
+"HOk-11-iiF.text" = "Primary Muscle:";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "HUL-50-nFf"; */
+"HUL-50-nFf.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "@instagram-name"; ObjectID = "HXt-pN-FJb"; */
+"HXt-pN-FJb.text" = "@instagram-name";
+
+/* Class = "IBUILabel"; text = "33 mins"; ObjectID = "HaR-Ss-E4q"; */
+"HaR-Ss-E4q.text" = "33 mins";
+
+/* Class = "IBUILabel"; text = "MON"; ObjectID = "HbL-lB-QVP"; */
+"HbL-lB-QVP.text" = "MON";
+
+/* Class = "IBUILabel"; text = "Special Notes"; ObjectID = "Hhx-oF-5Xs"; */
+"Hhx-oF-5Xs.text" = "Special Notes";
+
+/* Class = "IBUIButton"; normalTitle = "Favourites"; ObjectID = "HxB-wt-wJn"; */
+"HxB-wt-wJn.normalTitle" = "Favourites";
+
+/* Class = "IBUIButton"; selectedTitle = "Favourites"; ObjectID = "HxB-wt-wJn"; */
+"HxB-wt-wJn.selectedTitle" = "Favourites";
+
+/* Class = "IBUILabel"; text = "N/A"; ObjectID = "I2v-Oq-7HD"; */
+"I2v-Oq-7HD.text" = "N/A";
+
+/* Class = "IBUILabel"; text = "Set:"; ObjectID = "I6x-0N-CBb"; */
+"I6x-0N-CBb.text" = "Set:";
+
+/* Class = "IBUILabel"; text = "Dinner"; ObjectID = "IEl-mX-hot"; */
+"IEl-mX-hot.text" = "Dinner";
+
+/* Class = "IBUITextField"; placeholder = "Gender"; ObjectID = "IQ2-B3-1F7"; */
+"IQ2-B3-1F7.placeholder" = "Gender";
+
+/* Class = "IBUILabel"; text = "Login"; ObjectID = "IcO-qh-Sh5"; */
+"IcO-qh-Sh5.text" = "Login";
+
+/* Class = "IBUITextField"; placeholder = "Male"; ObjectID = "IeB-l4-vfe"; */
+"IeB-l4-vfe.placeholder" = "Male";
+
+/* Class = "IBUILabel"; text = "Type"; ObjectID = "IfA-0I-02L"; */
+"IfA-0I-02L.text" = "Type";
+
+/* Class = "IBUILabel"; text = "0/3 Set of 6 Rep, Rest 120s"; ObjectID = "Iiu-MU-a09"; */
+"Iiu-MU-a09.text" = "0/3 Set of 6 Rep, Rest 120s";
+
+/* Class = "IBUITextField"; placeholder = "reps"; ObjectID = "IlV-df-MW5"; */
+"IlV-df-MW5.placeholder" = "reps";
+
+/* Class = "IBUILabel"; text = "Enter an appropriate program name"; ObjectID = "IqS-9o-45n"; */
+"IqS-9o-45n.text" = "Enter an appropriate program name";
+
+/* Class = "IBUITextField"; placeholder = "John Doe"; ObjectID = "IxC-Nj-Kia"; */
+"IxC-Nj-Kia.placeholder" = "John Doe";
+
+/* Class = "IBUILabel"; text = "I accept the "; ObjectID = "IyY-Ld-nTs"; */
+"IyY-Ld-nTs.text" = "I accept the ";
+
+/* Class = "IBUINavigationItem"; title = "Contact Us"; ObjectID = "JTz-NN-67C"; */
+"JTz-NN-67C.title" = "Contact Us";
+
+/* Class = "IBUILabel"; text = "OR"; ObjectID = "JUy-oV-Zf3"; */
+"JUy-oV-Zf3.text" = "OR";
+
+/* Class = "IBUINavigationItem"; title = "Exercise Library"; ObjectID = "K3a-YO-XAw"; */
+"K3a-YO-XAw.title" = "Exercise Library";
+
+/* Class = "IBUITextField"; placeholder = "Example@email.com"; ObjectID = "KCR-Cc-rcA"; */
+"KCR-Cc-rcA.placeholder" = "Example@email.com";
+
+/* Class = "IBUINavigationItem"; title = "Buy a Program"; ObjectID = "KDP-rL-aLr"; */
+"KDP-rL-aLr.title" = "Buy a Program";
+
+/* Class = "IBUIButton"; normalTitle = "Completed"; ObjectID = "KNZ-Ul-0iZ"; */
+"KNZ-Ul-0iZ.normalTitle" = "Completed";
+
+/* Class = "IBUILabel"; text = "Gender :"; ObjectID = "KT4-fA-Un6"; */
+"KT4-fA-Un6.text" = "Gender :";
+
+/* Class = "IBUILabel"; text = "Barbell Bench Press"; ObjectID = "Kad-0F-Lmo"; */
+"Kad-0F-Lmo.text" = "Barbell Bench Press";
+
+/* Class = "IBUIButton"; normalTitle = "My Activities"; ObjectID = "Ki9-Ea-Gy5"; */
+"Ki9-Ea-Gy5.normalTitle" = "My Activities";
+
+/* Class = "IBUIButton"; normalTitle = "Achievements"; ObjectID = "Kzc-Cl-ffS"; */
+"Kzc-Cl-ffS.normalTitle" = "Achievements";
+
+/* Class = "IBUILabel"; text = "Forearm, Triceps"; ObjectID = "LSh-ho-WAq"; */
+"LSh-ho-WAq.text" = "Forearm, Triceps";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "Lb0-Ug-zW3"; */
+"Lb0-Ug-zW3.text" = "Save";
+
+/* Class = "IBUILabel"; text = "Jaber M."; ObjectID = "LjE-aa-PvM"; */
+"LjE-aa-PvM.text" = "Jaber M.";
+
+/* Class = "IBUINavigationItem"; title = "Achivements"; ObjectID = "Lpj-GL-Ilh"; */
+"Lpj-GL-Ilh.title" = "Achivements";
+
+/* Class = "IBUIButton"; normalTitle = "View workouts"; ObjectID = "Lrj-Jw-TwK"; */
+"Lrj-Jw-TwK.normalTitle" = "View workouts";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "M7I-fM-CUh"; */
+"M7I-fM-CUh.normalTitle" = "Button";
+
+/* Class = "IBUINavigationItem"; title = "Program Details"; ObjectID = "MEN-Z2-fFz"; */
+"MEN-Z2-fFz.title" = "Program Details";
+
+/* Class = "IBUIButton"; normalTitle = "Recent"; ObjectID = "MGL-9y-UfL"; */
+"MGL-9y-UfL.normalTitle" = "Recent";
+
+/* Class = "IBUIButton"; selectedTitle = "Recent"; ObjectID = "MGL-9y-UfL"; */
+"MGL-9y-UfL.selectedTitle" = "Recent";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "MNV-Yn-4TW"; */
+"MNV-Yn-4TW.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "N6C-2p-REO"; */
+"N6C-2p-REO.text" = "Save";
+
+/* Class = "IBUILabel"; text = "Age :"; ObjectID = "NIb-86-kBk"; */
+"NIb-86-kBk.text" = "Age :";
+
+/* Class = "IBUILabel"; text = "Please enter your email address you used during registration to retrieve password reset information through email.\n"; ObjectID = "NVp-rR-8fI"; */
+"NVp-rR-8fI.text" = "Please enter your email address you used during registration to retrieve password reset information through email.\n";
+
+/* Class = "IBUILabel"; text = "Submit"; ObjectID = "Nax-Dh-wfQ"; */
+"Nax-Dh-wfQ.text" = "Submit";
+
+/* Class = "IBUINavigationItem"; title = "Treadmill Running"; ObjectID = "Nd3-83-dd8"; */
+"Nd3-83-dd8.title" = "Treadmill Running";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancel"; ObjectID = "Nna-yk-8G0"; */
+"Nna-yk-8G0.title" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Get a Trainer"; ObjectID = "NqT-Ws-wro"; */
+"NqT-Ws-wro.normalTitle" = "Get a Trainer";
+
+/* Class = "IBUILabel"; text = "Submit"; ObjectID = "O4i-Ib-w7v"; */
+"O4i-Ib-w7v.text" = "Submit";
+
+/* Class = "IBUILabel"; text = "Select an appropriate date for meeting:"; ObjectID = "O5H-mT-T4C"; */
+"O5H-mT-T4C.text" = "Select an appropriate date for meeting:";
+
+/* Class = "IBUITextView"; text = " Day1 - Dinner menu  -1/2 cup raspberries -1/2 cup plain yogurt -1 packet stevia  -Snacks: Apple, 14 Almonds"; ObjectID = "OMw-aj-DSG"; */
+"OMw-aj-DSG.text" = " Day1 - Dinner menu  -1/2 cup raspberries -1/2 cup plain yogurt -1 packet stevia  -Snacks: Apple, 14 Almonds";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "OPe-XT-hhB"; */
+"OPe-XT-hhB.text" = "2";
+
+/* Class = "IBUILabel"; text = "Select the level of difficulty for exercises."; ObjectID = "OUG-3y-NpG"; */
+"OUG-3y-NpG.text" = "Select the level of difficulty for exercises.";
+
+/* Class = "IBUILabel"; text = "Date of Birth"; ObjectID = "Ogk-Am-gIu"; */
+"Ogk-Am-gIu.text" = "Date of Birth";
+
+/* Class = "IBUILabel"; text = "Enter name of food item you are allergic to"; ObjectID = "OoZ-Ph-eTK"; */
+"OoZ-Ph-eTK.text" = "Enter name of food item you are allergic to";
+
+/* Class = "IBUITextField"; placeholder = "Phone"; ObjectID = "Opf-Ug-mjh"; */
+"Opf-Ug-mjh.placeholder" = "Phone";
+
+/* Class = "IBUITextView"; text = " Day1 - Dinner menu  -1/2 cup raspberries -1/2 cup plain yogurt -1 packet stevia  -Snacks: Apple, 14 Almonds"; ObjectID = "Otd-xX-E91"; */
+"Otd-xX-E91.text" = " Day1 - Dinner menu  -1/2 cup raspberries -1/2 cup plain yogurt -1 packet stevia  -Snacks: Apple, 14 Almonds";
+
+/* Class = "IBUILabel"; text = "My Profile Info "; ObjectID = "OzP-jh-Soq"; */
+"OzP-jh-Soq.text" = "My Profile Info ";
+
+/* Class = "IBUIButton"; normalTitle = "My Activities"; ObjectID = "P11-T2-WKj"; */
+"P11-T2-WKj.normalTitle" = "My Activities";
+
+/* Class = "IBUILabel"; text = "Book  a meeting"; ObjectID = "PNb-ne-9Oa"; */
+"PNb-ne-9Oa.text" = "Book  a meeting";
+
+/* Class = "IBUILabel"; text = "Back, Biceps and Forearm"; ObjectID = "POH-Vo-h8v"; */
+"POH-Vo-h8v.text" = "Back, Biceps and Forearm";
+
+/* Class = "IBUILabel"; text = "Duration:"; ObjectID = "PaF-lQ-mt3"; */
+"PaF-lQ-mt3.text" = "Duration:";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password?"; ObjectID = "PcV-rg-Wxv"; */
+"PcV-rg-Wxv.normalTitle" = "Forgot Password?";
+
+/* Class = "IBUITextView"; text = " 6`Breakfast Sandwich  -Roasted garlic bread -Chicken strip -Egg white patty -Lettuce, Onion, Olives -Light mayonnaise"; ObjectID = "Pyt-yj-QoC"; */
+"Pyt-yj-QoC.text" = " 6`Breakfast Sandwich  -Roasted garlic bread -Chicken strip -Egg white patty -Lettuce, Onion, Olives -Light mayonnaise";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "QDm-EX-khk"; */
+"QDm-EX-khk.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "Day3(1120kcal)"; ObjectID = "QGB-nR-9kS"; */
+"QGB-nR-9kS.text" = "Day3(1120kcal)";
+
+/* Class = "IBUILabel"; text = "Barbell Bench Press"; ObjectID = "QO6-Dw-ZOM"; */
+"QO6-Dw-ZOM.text" = "Barbell Bench Press";
+
+/* Class = "IBUILabel"; text = "(Beginner General Fitness, 1 d/week)"; ObjectID = "QOm-OY-CmD"; */
+"QOm-OY-CmD.text" = "(Beginner General Fitness, 1 d/week)";
+
+/* Class = "IBUILabel"; text = " (11/11/2014)"; ObjectID = "QS1-fg-2jI"; */
+"QS1-fg-2jI.text" = " (11/11/2014)";
+
+/* Class = "IBUILabel"; text = "Repetitions :"; ObjectID = "Qf5-KV-rDi"; */
+"Qf5-KV-rDi.text" = "Repetitions :";
+
+/* Class = "IBUILabel"; text = "Add Exercise"; ObjectID = "Qp9-qP-e4g"; */
+"Qp9-qP-e4g.text" = "Add Exercise";
+
+/* Class = "IBUIButton"; normalTitle = "Sign up"; ObjectID = "RAY-ZF-1L9"; */
+"RAY-ZF-1L9.normalTitle" = "Sign up";
+
+/* Class = "IBUILabel"; text = "Trainer:"; ObjectID = "RES-fk-oez"; */
+"RES-fk-oez.text" = "Trainer:";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "RPb-XJ-t4U"; */
+"RPb-XJ-t4U.text" = "Save";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "RTx-Eh-Hq2"; */
+"RTx-Eh-Hq2.text" = "1";
+
+/* Class = "IBUILabel"; text = "Enter your code:"; ObjectID = "RjC-ar-oTj"; */
+"RjC-ar-oTj.text" = "Enter your code:";
+
+/* Class = "IBUILabel"; text = "Enter your full name"; ObjectID = "Rt3-gK-9dk"; */
+"Rt3-gK-9dk.text" = "Enter your full name";
+
+/* Class = "IBUILabel"; text = "Quadriceps"; ObjectID = "S4k-n9-x1w"; */
+"S4k-n9-x1w.text" = "Quadriceps";
+
+/* Class = "IBUILabel"; text = "Glutes"; ObjectID = "Sjb-hW-FM9"; */
+"Sjb-hW-FM9.text" = "Glutes";
+
+/* Class = "IBUILabel"; text = "Comments"; ObjectID = "SlZ-MB-LqY"; */
+"SlZ-MB-LqY.text" = "Comments";
+
+/* Class = "IBUILabel"; text = "Unavailable"; ObjectID = "SmR-49-kgL"; */
+"SmR-49-kgL.text" = "Unavailable";
+
+/* Class = "IBUITextField"; placeholder = "********"; ObjectID = "Srv-Nf-HFN"; */
+"Srv-Nf-HFN.placeholder" = "********";
+
+/* Class = "IBUINavigationItem"; title = "Edit Profile Info"; ObjectID = "Sx9-QF-K0K"; */
+"Sx9-QF-K0K.title" = "Edit Profile Info";
+
+/* Class = "IBUILabel"; text = "Please enter your phone number and we will send password reset instructions through SMS."; ObjectID = "T1f-su-ZrU"; */
+"T1f-su-ZrU.text" = "Please enter your phone number and we will send password reset instructions through SMS.";
+
+/* Class = "IBUILabel"; text = "Jaber Al-Rashid"; ObjectID = "TYQ-Kl-CI2"; */
+"TYQ-Kl-CI2.text" = "Jaber Al-Rashid";
+
+/* Class = "IBUILabel"; text = "Article Category 1"; ObjectID = "TaK-bk-2ti"; */
+"TaK-bk-2ti.text" = "Article Category 1";
+
+/* Class = "IBUINavigationItem"; title = "Exercise List"; ObjectID = "TfO-MA-B6Y"; */
+"TfO-MA-B6Y.title" = "Exercise List";
+
+/* Class = "IBUILabel"; text = "Frequency"; ObjectID = "TlS-F4-535"; */
+"TlS-F4-535.text" = "Frequency";
+
+/* Class = "IBUILabel"; text = "Dana A"; ObjectID = "TuW-oI-pqg"; */
+"TuW-oI-pqg.text" = "Dana A";
+
+/* Class = "IBUILabel"; text = "Select an appropriate meeting time"; ObjectID = "Txj-vC-0nb"; */
+"Txj-vC-0nb.text" = "Select an appropriate meeting time";
+
+/* Class = "IBUITextField"; placeholder = "Phone No"; ObjectID = "TyW-q1-7fU"; */
+"TyW-q1-7fU.placeholder" = "Phone No";
+
+/* Class = "IBUINavigationItem"; title = "Login"; ObjectID = "UAL-QR-djg"; */
+"UAL-QR-djg.title" = "Login";
+
+/* Class = "IBUILabel"; text = "Please ask your question here"; ObjectID = "UDJ-jD-266"; */
+"UDJ-jD-266.text" = "Please ask your question here";
+
+/* Class = "IBUILabel"; text = "If you pay through KNET you will get a code through a SMS to validate in our application at anytime."; ObjectID = "UXV-zm-Fpb"; */
+"UXV-zm-Fpb.text" = "If you pay through KNET you will get a code through a SMS to validate in our application at anytime.";
+
+/* Class = "IBUILabel"; text = "@instagram-name"; ObjectID = "Uc9-Ys-tj8"; */
+"Uc9-Ys-tj8.text" = "@instagram-name";
+
+/* Class = "IBUILabel"; text = "Jaber M"; ObjectID = "UcI-j6-Q9S"; */
+"UcI-j6-Q9S.text" = "Jaber M";
+
+/* Class = "IBUIButton"; normalTitle = "My Activities"; ObjectID = "UzV-E2-WwU"; */
+"UzV-E2-WwU.normalTitle" = "My Activities";
+
+/* Class = "IBUITextField"; placeholder = "- Sort By -"; ObjectID = "V7E-2P-7JT"; */
+"V7E-2P-7JT.placeholder" = "- Sort By -";
+
+/* Class = "IBUIButton"; normalTitle = "Descriptionu"; ObjectID = "VBQ-Jv-Lm3"; */
+"VBQ-Jv-Lm3.normalTitle" = "Descriptionu";
+
+/* Class = "IBUIButton"; selectedTitle = "Descriptionu"; ObjectID = "VBQ-Jv-Lm3"; */
+"VBQ-Jv-Lm3.selectedTitle" = "Descriptionu";
+
+/* Class = "IBUILabel"; text = "4.5"; ObjectID = "VCv-xY-a1W"; */
+"VCv-xY-a1W.text" = "4.5";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum."; ObjectID = "VG7-if-XB4"; */
+"VG7-if-XB4.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum.";
+
+/* Class = "IBUILabel"; text = "Biceps"; ObjectID = "VPK-b8-ka6"; */
+"VPK-b8-ka6.text" = "Biceps";
+
+/* Class = "IBUILabel"; text = "Moderately healthy"; ObjectID = "VPt-z5-2mO"; */
+"VPt-z5-2mO.text" = "Moderately healthy";
+
+/* Class = "IBUILabel"; text = "Amount to pay:"; ObjectID = "Vd1-fq-Nm7"; */
+"Vd1-fq-Nm7.text" = "Amount to pay:";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "VrE-c2-EJV"; */
+"VrE-c2-EJV.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Difficulty"; ObjectID = "Vwm-CX-CmF"; */
+"Vwm-CX-CmF.text" = "Difficulty";
+
+/* Class = "IBUILabel"; text = "Day2(1120kcal)"; ObjectID = "W1w-X6-V6q"; */
+"W1w-X6-V6q.text" = "Day2(1120kcal)";
+
+/* Class = "IBUILabel"; text = "Click on Submit button to go KNET gateway"; ObjectID = "W2V-XH-6AI"; */
+"W2V-XH-6AI.text" = "Click on Submit button to go KNET gateway";
+
+/* Class = "IBUINavigationItem"; title = "Book a meeting"; ObjectID = "WLo-KG-3o6"; */
+"WLo-KG-3o6.title" = "Book a meeting";
+
+/* Class = "IBUILabel"; text = "Select an appropriate program for meeting:"; ObjectID = "WOC-0e-fkY"; */
+"WOC-0e-fkY.text" = "Select an appropriate program for meeting:";
+
+/* Class = "IBUILabel"; text = "I am allergic to"; ObjectID = "Wb3-Wh-n0D"; */
+"Wb3-Wh-n0D.text" = "I am allergic to";
+
+/* Class = "IBUILabel"; text = "Primary Muscle:"; ObjectID = "Wc4-Ok-a1X"; */
+"Wc4-Ok-a1X.text" = "Primary Muscle:";
+
+/* Class = "IBUITextField"; placeholder = "General fitness"; ObjectID = "Wc6-y6-16S"; */
+"Wc6-y6-16S.placeholder" = "General fitness";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "WcH-VD-pX9"; */
+"WcH-VD-pX9.normalTitle" = "Button";
+
+/* Class = "IBUINavigationItem"; title = "Meals"; ObjectID = "Wjb-f4-Uy1"; */
+"Wjb-f4-Uy1.title" = "Meals";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "X8Y-lH-zHm"; */
+"X8Y-lH-zHm.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; selectedTitle = "English"; ObjectID = "X8Y-lH-zHm"; */
+"X8Y-lH-zHm.selectedTitle" = "English";
+
+/* Class = "IBUILabel"; text = "Weight loss"; ObjectID = "XO7-z8-PYN"; */
+"XO7-z8-PYN.text" = "Weight loss";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "YCr-Oq-69e"; */
+"YCr-Oq-69e.text" = "2";
+
+/* Class = "IBUILabel"; text = "Healthy Choices"; ObjectID = "YD1-ol-eN6"; */
+"YD1-ol-eN6.text" = "Healthy Choices";
+
+/* Class = "IBUINavigationItem"; title = "Edit Food don`t like"; ObjectID = "YG0-OR-GB2"; */
+"YG0-OR-GB2.title" = "Edit Food don`t like";
+
+/* Class = "IBUINavigationItem"; title = "My Workout Routines"; ObjectID = "YPR-6e-i6R"; */
+"YPR-6e-i6R.title" = "My Workout Routines";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "Yfk-ha-fsf"; */
+"Yfk-ha-fsf.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "Foods I don`t like"; ObjectID = "ZAM-NM-38f"; */
+"ZAM-NM-38f.text" = "Foods I don`t like";
+
+/* Class = "IBUIButton"; normalTitle = "Add a Workout"; ObjectID = "ZCQ-Vt-IEZ"; */
+"ZCQ-Vt-IEZ.normalTitle" = "Add a Workout";
+
+/* Class = "IBUITextField"; placeholder = "General fitness"; ObjectID = "ZZg-TG-Nir"; */
+"ZZg-TG-Nir.placeholder" = "General fitness";
+
+/* Class = "IBUILabel"; text = "John Doe"; ObjectID = "ZhE-67-LEt"; */
+"ZhE-67-LEt.text" = "John Doe";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "ZjO-nT-iqA"; */
+"ZjO-nT-iqA.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "33 mins"; ObjectID = "Zmq-cQ-cO0"; */
+"Zmq-cQ-cO0.text" = "33 mins";
+
+/* Class = "IBUILabel"; text = "Get Lean"; ObjectID = "a1h-ZQ-iOd"; */
+"a1h-ZQ-iOd.text" = "Get Lean";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "a2s-EV-CWM"; */
+"a2s-EV-CWM.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "Secondary Muscle:"; ObjectID = "a5l-zM-wJv"; */
+"a5l-zM-wJv.text" = "Secondary Muscle:";
+
+/* Class = "IBUILabel"; text = "Breakfast"; ObjectID = "aDR-ej-mx6"; */
+"aDR-ej-mx6.text" = "Breakfast";
+
+/* Class = "IBUILabel"; text = "Not healthy"; ObjectID = "aHW-lT-hxE"; */
+"aHW-lT-hxE.text" = "Not healthy";
+
+/* Class = "IBUITextView"; text = " Day1 - Dinner menu  -1/2 cup raspberries -1/2 cup plain yogurt -1 packet stevia  -Snacks: Apple, 14 Almonds"; ObjectID = "aI4-fx-iII"; */
+"aI4-fx-iII.text" = " Day1 - Dinner menu  -1/2 cup raspberries -1/2 cup plain yogurt -1 packet stevia  -Snacks: Apple, 14 Almonds";
+
+/* Class = "IBUILabel"; text = "If you pay through KNET you will get a code through a SMS to validate in our application at anytime."; ObjectID = "aQ1-Ju-hzD"; */
+"aQ1-Ju-hzD.text" = "If you pay through KNET you will get a code through a SMS to validate in our application at anytime.";
+
+/* Class = "IBUILabel"; text = "Very Healthy"; ObjectID = "aRO-kb-mSh"; */
+"aRO-kb-mSh.text" = "Very Healthy";
+
+/* Class = "IBUITextField"; placeholder = "mins"; ObjectID = "amA-Gz-Qjj"; */
+"amA-Gz-Qjj.placeholder" = "mins";
+
+/* Class = "IBUILabel"; text = "Shreded is your goa? You want that six pack to apear? This is right choose for you!"; ObjectID = "avj-h5-Dbh"; */
+"avj-h5-Dbh.text" = "Shreded is your goa? You want that six pack to apear? This is right choose for you!";
+
+/* Class = "IBUILabel"; text = "Equipment:"; ObjectID = "bIq-Ns-6jz"; */
+"bIq-Ns-6jz.text" = "Equipment:";
+
+/* Class = "IBUITextField"; placeholder = "Program Name"; ObjectID = "bMV-dW-JZK"; */
+"bMV-dW-JZK.placeholder" = "Program Name";
+
+/* Class = "IBUILabel"; text = "Add Exercises"; ObjectID = "bhO-bB-sdQ"; */
+"bhO-bB-sdQ.text" = "Add Exercises";
+
+/* Class = "IBUIButton"; normalTitle = "Workout Library"; ObjectID = "buE-Un-GGk"; */
+"buE-Un-GGk.normalTitle" = "Workout Library";
+
+/* Class = "IBUILabel"; text = "Weight"; ObjectID = "cHN-WI-PJq"; */
+"cHN-WI-PJq.text" = "Weight";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "cSJ-Xi-mwD"; */
+"cSJ-Xi-mwD.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Book  a meeting"; ObjectID = "cjT-VQ-Lfe"; */
+"cjT-VQ-Lfe.text" = "Book  a meeting";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "cjq-kw-sSc"; */
+"cjq-kw-sSc.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "Side Lunges"; ObjectID = "csp-CZ-PGS"; */
+"csp-CZ-PGS.text" = "Side Lunges";
+
+/* Class = "IBUINavigationItem"; title = "Article"; ObjectID = "cuQ-K1-ZWD"; */
+"cuQ-K1-ZWD.title" = "Article";
+
+/* Class = "IBUILabel"; text = "168cm"; ObjectID = "cuh-3y-zOb"; */
+"cuh-3y-zOb.text" = "168cm";
+
+/* Class = "IBUILabel"; text = "0:00"; ObjectID = "d4E-Vj-NwV"; */
+"d4E-Vj-NwV.text" = "0:00";
+
+/* Class = "IBUINavigationItem"; title = "Exercise Detail"; ObjectID = "dHg-3a-kwm"; */
+"dHg-3a-kwm.title" = "Exercise Detail";
+
+/* Class = "IBUINavigationItem"; title = "Article Category"; ObjectID = "dIe-jM-IgJ"; */
+"dIe-jM-IgJ.title" = "Article Category";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "dMf-tn-fZV"; */
+"dMf-tn-fZV.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Enter your age"; ObjectID = "dcS-Ic-96v"; */
+"dcS-Ic-96v.text" = "Enter your age";
+
+/* Class = "IBUILabel"; text = "Click on Submit button to go KNET gateway"; ObjectID = "eEZ-R1-QAC"; */
+"eEZ-R1-QAC.text" = "Click on Submit button to go KNET gateway";
+
+/* Class = "IBUITextField"; placeholder = "Program Name"; ObjectID = "eEz-VI-9VO"; */
+"eEz-VI-9VO.placeholder" = "Program Name";
+
+/* Class = "IBUILabel"; text = "Distance:"; ObjectID = "eFZ-u4-dIx"; */
+"eFZ-u4-dIx.text" = "Distance:";
+
+/* Class = "IBUILabel"; text = "Gym Directories"; ObjectID = "eIx-Ei-Fzy"; */
+"eIx-Ei-Fzy.text" = "Gym Directories";
+
+/* Class = "IBUITextField"; placeholder = "reps"; ObjectID = "eLB-nd-QDL"; */
+"eLB-nd-QDL.placeholder" = "reps";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "eXw-Ur-6Gd"; */
+"eXw-Ur-6Gd.normalTitle" = "Chest";
+
+/* Class = "IBUILabel"; text = "Next"; ObjectID = "ehX-0M-1tf"; */
+"ehX-0M-1tf.text" = "Next";
+
+/* Class = "IBUINavigationItem"; title = "Directories"; ObjectID = "ezx-Id-mrz"; */
+"ezx-Id-mrz.title" = "Directories";
+
+/* Class = "IBUINavigationItem"; title = "Leg Pushup"; ObjectID = "f19-jz-QDe"; */
+"f19-jz-QDe.title" = "Leg Pushup";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "f5P-RO-crg"; */
+"f5P-RO-crg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUILabel"; text = "Get Lean"; ObjectID = "fJh-7a-Ij8"; */
+"fJh-7a-Ij8.text" = "Get Lean";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "fMk-JQ-XDu"; */
+"fMk-JQ-XDu.text" = "3";
+
+/* Class = "IBUILabel"; text = "Click on Submit button to go Apple payment gateway"; ObjectID = "fip-P2-c1v"; */
+"fip-P2-c1v.text" = "Click on Submit button to go Apple payment gateway";
+
+/* Class = "IBUILabel"; text = "years"; ObjectID = "fnK-I3-UiF"; */
+"fnK-I3-UiF.text" = "years";
+
+/* Class = "IBUILabel"; text = "0/3 Set of 6 Rep, Rest 120s"; ObjectID = "fom-dP-IRd"; */
+"fom-dP-IRd.text" = "0/3 Set of 6 Rep, Rest 120s";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "ftG-mc-X1b"; */
+"ftG-mc-X1b.text" = "2";
+
+/* Class = "IBUILabel"; text = "Sets :"; ObjectID = "fwD-l3-GN9"; */
+"fwD-l3-GN9.text" = "Sets :";
+
+/* Class = "IBUILabel"; text = "Trainer:"; ObjectID = "g9s-BL-xbf"; */
+"g9s-BL-xbf.text" = "Trainer:";
+
+/* Class = "IBUINavigationItem"; title = "Add Photos"; ObjectID = "gAP-o4-5Ef"; */
+"gAP-o4-5Ef.title" = "Add Photos";
+
+/* Class = "IBUITextField"; placeholder = "reps"; ObjectID = "gNe-hy-ynX"; */
+"gNe-hy-ynX.placeholder" = "reps";
+
+/* Class = "IBUILabel"; text = "Payment Method:"; ObjectID = "gV2-z2-wzv"; */
+"gV2-z2-wzv.text" = "Payment Method:";
+
+/* Class = "IBUINavigationItem"; title = "Articles"; ObjectID = "gZK-02-CnB"; */
+"gZK-02-CnB.title" = "Articles";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "gfX-7W-dWk"; */
+"gfX-7W-dWk.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Stand with your feet close together with arms by your sides."; ObjectID = "gjD-Hh-lXH"; */
+"gjD-Hh-lXH.text" = "Stand with your feet close together with arms by your sides.";
+
+/* Class = "IBUILabel"; text = "Enter your weight"; ObjectID = "gmp-7e-8Y6"; */
+"gmp-7e-8Y6.text" = "Enter your weight";
+
+/* Class = "IBUILabel"; text = "180 mins(2 weeks)"; ObjectID = "gnx-NR-eF0"; */
+"gnx-NR-eF0.text" = "180 mins(2 weeks)";
+
+/* Class = "IBUILabel"; text = "0/3 Set of 6 Rep, Rest 120s"; ObjectID = "goO-Mk-VhO"; */
+"goO-Mk-VhO.text" = "0/3 Set of 6 Rep, Rest 120s";
+
+/* Class = "IBUITextField"; placeholder = "No specific day"; ObjectID = "h19-f5-StF"; */
+"h19-f5-StF.placeholder" = "No specific day";
+
+/* Class = "IBUILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dollor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque."; ObjectID = "h1f-ah-CIw"; */
+"h1f-ah-CIw.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dollor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque.";
+
+/* Class = "IBUINavigationItem"; title = "Exercise Setting"; ObjectID = "h9L-KI-eyf"; */
+"h9L-KI-eyf.title" = "Exercise Setting";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "hAU-gq-xOC"; */
+"hAU-gq-xOC.normalTitle" = "Chest";
+
+/* Class = "IBUINavigationItem"; title = "Add Photos"; ObjectID = "hAb-Ji-bQS"; */
+"hAb-Ji-bQS.title" = "Add Photos";
+
+/* Class = "IBUILabel"; text = "Select no. of days/week you would like to get involved in the workouts"; ObjectID = "hkI-yQ-7Mn"; */
+"hkI-yQ-7Mn.text" = "Select no. of days/week you would like to get involved in the workouts";
+
+/* Class = "IBUILabel"; text = "56kg"; ObjectID = "hky-Vb-bRd"; */
+"hky-Vb-bRd.text" = "56kg";
+
+/* Class = "IBUILabel"; text = "Equipment:"; ObjectID = "hls-oL-0fe"; */
+"hls-oL-0fe.text" = "Equipment:";
+
+/* Class = "IBUILabel"; text = "Speed:"; ObjectID = "hwb-rP-9Ka"; */
+"hwb-rP-9Ka.text" = "Speed:";
+
+/* Class = "IBUILabel"; text = "Abdominal"; ObjectID = "i37-AR-irN"; */
+"i37-AR-irN.text" = "Abdominal";
+
+/* Class = "IBUITextField"; placeholder = "  26"; ObjectID = "i7P-Z4-fRw"; */
+"i7P-Z4-fRw.placeholder" = "  26";
+
+/* Class = "IBUILabel"; text = "Jaber M"; ObjectID = "i7n-5u-SJN"; */
+"i7n-5u-SJN.text" = "Jaber M";
+
+/* Class = "IBUILabel"; text = "John Doe"; ObjectID = "i8s-uj-3Ni"; */
+"i8s-uj-3Ni.text" = "John Doe";
+
+/* Class = "IBUILabel"; text = "Barbell Bench Press"; ObjectID = "inf-2B-4cf"; */
+"inf-2B-4cf.text" = "Barbell Bench Press";
+
+/* Class = "IBUILabel"; text = "Workout Day Name"; ObjectID = "ioj-0r-eNi"; */
+"ioj-0r-eNi.text" = "Workout Day Name";
+
+/* Class = "IBUILabel"; text = "Dana A"; ObjectID = "ivO-8V-vOj"; */
+"ivO-8V-vOj.text" = "Dana A";
+
+/* Class = "IBUILabel"; text = "Payment Method:"; ObjectID = "iwT-1b-OiB"; */
+"iwT-1b-OiB.text" = "Payment Method:";
+
+/* Class = "IBUINavigationItem"; title = "Edit Healthy Conditions"; ObjectID = "j6r-nj-vQw"; */
+"j6r-nj-vQw.title" = "Edit Healthy Conditions";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "jPr-mR-nDg"; */
+"jPr-mR-nDg.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Height"; ObjectID = "jQq-cb-Ifu"; */
+"jQq-cb-Ifu.text" = "Height";
+
+/* Class = "IBUILabel"; text = "Triceps"; ObjectID = "je1-cf-xCq"; */
+"je1-cf-xCq.text" = "Triceps";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "jgD-Un-eiv"; */
+"jgD-Un-eiv.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Weight :"; ObjectID = "jmq-cY-waA"; */
+"jmq-cY-waA.text" = "Weight :";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "jtX-5B-oP6"; */
+"jtX-5B-oP6.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "John Doe"; ObjectID = "k1w-1J-fzX"; */
+"k1w-1J-fzX.text" = "John Doe";
+
+/* Class = "IBUITextField"; placeholder = "CAL"; ObjectID = "k8N-zN-cCM"; */
+"k8N-zN-cCM.placeholder" = "CAL";
+
+/* Class = "IBUILabel"; text = "Lunch"; ObjectID = "kBh-wE-qXT"; */
+"kBh-wE-qXT.text" = "Lunch";
+
+/* Class = "IBUIButton"; normalTitle = "View workouts"; ObjectID = "kOp-1U-YMv"; */
+"kOp-1U-YMv.normalTitle" = "View workouts";
+
+/* Class = "IBUITextField"; placeholder = "Height"; ObjectID = "kVA-zt-N8J"; */
+"kVA-zt-N8J.placeholder" = "Height";
+
+/* Class = "IBUINavigationItem"; title = "Edit Special Notes"; ObjectID = "kd3-ci-2L3"; */
+"kd3-ci-2L3.title" = "Edit Special Notes";
+
+/* Class = "IBUILabel"; text = "Shoulder"; ObjectID = "kmM-MC-QGS"; */
+"kmM-MC-QGS.text" = "Shoulder";
+
+/* Class = "IBUILabel"; text = "Elapsed Time"; ObjectID = "ksa-rD-JvZ"; */
+"ksa-rD-JvZ.text" = "Elapsed Time";
+
+/* Class = "IBUITextView"; text = " Salads  -Roasted Chicken patty, -1/2 cup plain yogurt -Cucumber, Avocardo, Green -Lettuce, Swiss cheese -Snacks: Apple, 14 Almonds"; ObjectID = "kw9-4L-irB"; */
+"kw9-4L-irB.text" = " Salads  -Roasted Chicken patty, -1/2 cup plain yogurt -Cucumber, Avocardo, Green -Lettuce, Swiss cheese -Snacks: Apple, 14 Almonds";
+
+/* Class = "IBUILabel"; text = "Day1(1120kcal)"; ObjectID = "l6P-IC-j28"; */
+"l6P-IC-j28.text" = "Day1(1120kcal)";
+
+/* Class = "IBUIButton"; normalTitle = "My Workouts"; ObjectID = "l6d-0M-QHD"; */
+"l6d-0M-QHD.normalTitle" = "My Workouts";
+
+/* Class = "IBUIButton"; normalTitle = "Comments"; ObjectID = "lFe-xs-CKD"; */
+"lFe-xs-CKD.normalTitle" = "Comments";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "laZ-T0-8W8"; */
+"laZ-T0-8W8.text" = "2";
+
+/* Class = "IBUILabel"; text = "WED"; ObjectID = "lgj-Yw-lQS"; */
+"lgj-Yw-lQS.text" = "WED";
+
+/* Class = "IBUITextField"; placeholder = "Date of Birth"; ObjectID = "lkg-Jv-Lu5"; */
+"lkg-Jv-Lu5.placeholder" = "Date of Birth";
+
+/* Class = "IBUILabel"; text = "Dinner"; ObjectID = "lxa-ZY-RXF"; */
+"lxa-ZY-RXF.text" = "Dinner";
+
+/* Class = "IBUIButton"; normalTitle = "View workouts"; ObjectID = "mDX-5v-UNR"; */
+"mDX-5v-UNR.normalTitle" = "View workouts";
+
+/* Class = "IBUILabel"; text = "Height :"; ObjectID = "mIx-YI-Kj4"; */
+"mIx-YI-Kj4.text" = "Height :";
+
+/* Class = "IBUILabel"; text = "Cardio"; ObjectID = "mSN-nY-52a"; */
+"mSN-nY-52a.text" = "Cardio";
+
+/* Class = "IBUILabel"; text = "Select no. of days/week you would like to get involved in the workouts"; ObjectID = "mVu-6Q-aEI"; */
+"mVu-6Q-aEI.text" = "Select no. of days/week you would like to get involved in the workouts";
+
+/* Class = "IBUILabel"; text = "37yrs"; ObjectID = "mbL-PD-7bm"; */
+"mbL-PD-7bm.text" = "37yrs";
+
+/* Class = "IBUITextField"; placeholder = "- Filter -"; ObjectID = "mni-i9-5qF"; */
+"mni-i9-5qF.placeholder" = "- Filter -";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "mxp-LK-ARK"; */
+"mxp-LK-ARK.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "nE3-Q1-iJd"; */
+"nE3-Q1-iJd.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "nVG-Hy-zLh"; */
+"nVG-Hy-zLh.text" = "3";
+
+/* Class = "IBUILabel"; text = "Lunch"; ObjectID = "nWr-Ti-Ewg"; */
+"nWr-Ti-Ewg.text" = "Lunch";
+
+/* Class = "IBUILabel"; text = "Select your language"; ObjectID = "nXp-ym-aiG"; */
+"nXp-ym-aiG.text" = "Select your language";
+
+/* Class = "IBUINavigationItem"; title = "Nutritional facts"; ObjectID = "nYa-wS-YDh"; */
+"nYa-wS-YDh.title" = "Nutritional facts";
+
+/* Class = "IBUITextField"; placeholder = "My Chest and Abs day"; ObjectID = "nau-RD-nCL"; */
+"nau-RD-nCL.placeholder" = "My Chest and Abs day";
+
+/* Class = "IBUILabel"; text = "Select an appropriate program:"; ObjectID = "nkm-2F-PRs"; */
+"nkm-2F-PRs.text" = "Select an appropriate program:";
+
+/* Class = "IBUILabel"; text = "Forearm, Triceps"; ObjectID = "o4f-pO-7oC"; */
+"o4f-pO-7oC.text" = "Forearm, Triceps";
+
+/* Class = "IBUIViewController"; title = "Article Page"; ObjectID = "o70-iH-uRB"; */
+"o70-iH-uRB.title" = "Article Page";
+
+/* Class = "IBUILabel"; text = "Get assisted by a traniner"; ObjectID = "o9m-Tu-x1t"; */
+"o9m-Tu-x1t.text" = "Get assisted by a traniner";
+
+/* Class = "IBUILabel"; text = "Duration:"; ObjectID = "oFh-gI-Se3"; */
+"oFh-gI-Se3.text" = "Duration:";
+
+/* Class = "IBUILabel"; text = "0/3 Set of 6 Rep, Rest 120s"; ObjectID = "oH1-e6-BAv"; */
+"oH1-e6-BAv.text" = "0/3 Set of 6 Rep, Rest 120s";
+
+/* Class = "IBUILabel"; text = "No Photos"; ObjectID = "oUo-TU-xjv"; */
+"oUo-TU-xjv.text" = "No Photos";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum."; ObjectID = "oeg-JS-tB1"; */
+"oeg-JS-tB1.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum.";
+
+/* Class = "IBUITextField"; placeholder = "1day(s) a week"; ObjectID = "omD-tA-Vbw"; */
+"omD-tA-Vbw.placeholder" = "1day(s) a week";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "p5q-50-YtV"; */
+"p5q-50-YtV.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Get Lean"; ObjectID = "p6p-7v-JTX"; */
+"p6p-7v-JTX.text" = "Get Lean";
+
+/* Class = "IBUILabel"; text = "N/A"; ObjectID = "pBg-IW-yge"; */
+"pBg-IW-yge.text" = "N/A";
+
+/* Class = "IBUILabel"; text = "kg"; ObjectID = "pDh-Jt-r8R"; */
+"pDh-Jt-r8R.text" = "kg";
+
+/* Class = "IBUILabel"; text = "(Member since: mm/dd/yy)"; ObjectID = "pHG-Ku-VMq"; */
+"pHG-Ku-VMq.text" = "(Member since: mm/dd/yy)";
+
+/* Class = "IBUIButton"; normalTitle = "Workout Library"; ObjectID = "pSX-IS-iP9"; */
+"pSX-IS-iP9.normalTitle" = "Workout Library";
+
+/* Class = "IBUITextField"; placeholder = "1day(s) a week"; ObjectID = "paI-pI-vf2"; */
+"paI-pI-vf2.placeholder" = "1day(s) a week";
+
+/* Class = "IBUILabel"; text = "Cardio"; ObjectID = "pdL-3G-oyT"; */
+"pdL-3G-oyT.text" = "Cardio";
+
+/* Class = "IBUILabel"; text = "Add Exercise"; ObjectID = "prd-KO-w7W"; */
+"prd-KO-w7W.text" = "Add Exercise";
+
+/* Class = "IBUILabel"; text = "Select the level of difficulty for exercises."; ObjectID = "pw3-AK-v8r"; */
+"pw3-AK-v8r.text" = "Select the level of difficulty for exercises.";
+
+/* Class = "IBUILabel"; text = "Article Heading"; ObjectID = "pxp-7d-IAE"; */
+"pxp-7d-IAE.text" = "Article Heading";
+
+/* Class = "IBUILabel"; text = "Get Lean"; ObjectID = "qAI-kv-SDo"; */
+"qAI-kv-SDo.text" = "Get Lean";
+
+/* Class = "IBUIButton"; normalTitle = "View All"; ObjectID = "qHf-Lm-LSQ"; */
+"qHf-Lm-LSQ.normalTitle" = "View All";
+
+/* Class = "IBUINavigationItem"; title = "My Activities"; ObjectID = "qJy-Fe-CaG"; */
+"qJy-Fe-CaG.title" = "My Activities";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "qTH-B0-Mv7"; */
+"qTH-B0-Mv7.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Breakfast"; ObjectID = "qdV-UT-seU"; */
+"qdV-UT-seU.text" = "Breakfast";
+
+/* Class = "IBUILabel"; text = "Article 1"; ObjectID = "qez-E2-q39"; */
+"qez-E2-q39.text" = "Article 1";
+
+/* Class = "IBUILabel"; text = "Chest and Bicep"; ObjectID = "qrS-24-XIZ"; */
+"qrS-24-XIZ.text" = "Chest and Bicep";
+
+/* Class = "IBUINavigationItem"; title = "Welcome"; ObjectID = "qtS-vy-0Uu"; */
+"qtS-vy-0Uu.title" = "Welcome";
+
+/* Class = "IBUILabel"; text = "Click on Submit button to go Apple payment gateway"; ObjectID = "r5d-mI-Au1"; */
+"r5d-mI-Au1.text" = "Click on Submit button to go Apple payment gateway";
+
+/* Class = "IBUILabel"; text = "Stand with your feet close together with arms by your sides."; ObjectID = "rEM-xH-dyh"; */
+"rEM-xH-dyh.text" = "Stand with your feet close together with arms by your sides.";
+
+/* Class = "IBUIButton"; normalTitle = "Chest"; ObjectID = "rKZ-ei-7yp"; */
+"rKZ-ei-7yp.normalTitle" = "Chest";
+
+/* Class = "IBUITextField"; placeholder = "Km"; ObjectID = "re0-Zv-Gvn"; */
+"re0-Zv-Gvn.placeholder" = "Km";
+
+/* Class = "IBUILabel"; text = "Frequency"; ObjectID = "rit-Vj-DeG"; */
+"rit-Vj-DeG.text" = "Frequency";
+
+/* Class = "IBUILabel"; text = "Managed By:"; ObjectID = "rrn-78-vPU"; */
+"rrn-78-vPU.text" = "Managed By:";
+
+/* Class = "IBUILabel"; text = "120s"; ObjectID = "ryt-15-O0s"; */
+"ryt-15-O0s.text" = "120s";
+
+/* Class = "IBUILabel"; text = "A Program to get you in shape, increase strength and rejuvinate yourself in shot & easy set of execcises."; ObjectID = "sML-qj-gPd"; */
+"sML-qj-gPd.text" = "A Program to get you in shape, increase strength and rejuvinate yourself in shot & easy set of execcises.";
+
+/* Class = "IBUILabel"; text = "After"; ObjectID = "sfK-kW-GnN"; */
+"sfK-kW-GnN.text" = "After";
+
+/* Class = "IBUITextField"; placeholder = "Weight"; ObjectID = "sfr-je-kj0"; */
+"sfr-je-kj0.placeholder" = "Weight";
+
+/* Class = "IBUILabel"; text = "Add this exercise to my workouts"; ObjectID = "shL-yt-9PX"; */
+"shL-yt-9PX.text" = "Add this exercise to my workouts";
+
+/* Class = "IBUITextField"; placeholder = "hrs"; ObjectID = "srg-yK-J0G"; */
+"srg-yK-J0G.placeholder" = "hrs";
+
+/* Class = "IBUITextField"; placeholder = "- Select Program - "; ObjectID = "ssZ-Cl-nRk"; */
+"ssZ-Cl-nRk.placeholder" = "- Select Program - ";
+
+/* Class = "IBUILabel"; text = "Primary Muscle:"; ObjectID = "tT4-Z3-XGg"; */
+"tT4-Z3-XGg.text" = "Primary Muscle:";
+
+/* Class = "IBUITextField"; placeholder = "reps"; ObjectID = "tlo-bx-PMY"; */
+"tlo-bx-PMY.placeholder" = "reps";
+
+/* Class = "IBUILabel"; text = "Breakfast"; ObjectID = "tq4-lB-o8Y"; */
+"tq4-lB-o8Y.text" = "Breakfast";
+
+/* Class = "IBUINavigationItem"; title = "Store"; ObjectID = "trO-cp-j5w"; */
+"trO-cp-j5w.title" = "Store";
+
+/* Class = "IBUILabel"; text = "Dinner"; ObjectID = "u1P-GU-ApD"; */
+"u1P-GU-ApD.text" = "Dinner";
+
+/* Class = "IBUILabel"; text = "10 articles"; ObjectID = "u3L-zH-RrQ"; */
+"u3L-zH-RrQ.text" = "10 articles";
+
+/* Class = "IBUILabel"; text = "Exercise Setting"; ObjectID = "uPZ-yk-vaq"; */
+"uPZ-yk-vaq.text" = "Exercise Setting";
+
+/* Class = "IBUINavigationItem"; title = "Forgot Password"; ObjectID = "uQf-p2-QuE"; */
+"uQf-p2-QuE.title" = "Forgot Password";
+
+/* Class = "IBUILabel"; text = "Program selected:"; ObjectID = "uZc-An-zrk"; */
+"uZc-An-zrk.text" = "Program selected:";
+
+/* Class = "IBUILabel"; text = "Jaber M"; ObjectID = "udj-CR-Kz7"; */
+"udj-CR-Kz7.text" = "Jaber M";
+
+/* Class = "IBUILabel"; text = "John Doe"; ObjectID = "upg-QS-PgE"; */
+"upg-QS-PgE.text" = "John Doe";
+
+/* Class = "IBUINavigationItem"; title = "My Diet Plan"; ObjectID = "uxJ-mx-ftB"; */
+"uxJ-mx-ftB.title" = "My Diet Plan";
+
+/* Class = "IBUILabel"; text = "Abdullah Al-Awadhi"; ObjectID = "uxL-Wg-HrS"; */
+"uxL-Wg-HrS.text" = "Abdullah Al-Awadhi";
+
+/* Class = "IBUIBarButtonItem"; title = "Diet Plan"; ObjectID = "vDN-5y-ULF"; */
+"vDN-5y-ULF.title" = "Diet Plan";
+
+/* Class = "IBUILabel"; text = "Book  a meeting"; ObjectID = "vDu-hm-17U"; */
+"vDu-hm-17U.text" = "Book  a meeting";
+
+/* Class = "IBUILabel"; text = "Jaber M."; ObjectID = "vEO-lu-dWZ"; */
+"vEO-lu-dWZ.text" = "Jaber M.";
+
+/* Class = "IBUITextField"; placeholder = "sec"; ObjectID = "vK3-4H-hOK"; */
+"vK3-4H-hOK.placeholder" = "sec";
+
+/* Class = "IBUILabel"; text = "Dana A"; ObjectID = "vNe-cZ-68M"; */
+"vNe-cZ-68M.text" = "Dana A";
+
+/* Class = "IBUILabel"; text = "Forearm, Triceps"; ObjectID = "vNp-ty-OnF"; */
+"vNp-ty-OnF.text" = "Forearm, Triceps";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vlj-d2-03u"; */
+"vlj-d2-03u.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "w0F-v8-Yra"; */
+"w0F-v8-Yra.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Available meeting slots"; ObjectID = "wBQ-UB-Ths"; */
+"wBQ-UB-Ths.text" = "Available meeting slots";
+
+/* Class = "IBUILabel"; text = "Lunch"; ObjectID = "wDn-o2-Xxo"; */
+"wDn-o2-Xxo.text" = "Lunch";
+
+/* Class = "IBUILabel"; text = "Chest"; ObjectID = "wLs-1r-Ocb"; */
+"wLs-1r-Ocb.text" = "Chest";
+
+/* Class = "IBUILabel"; text = "Side Lunges"; ObjectID = "wQT-hE-Fi7"; */
+"wQT-hE-Fi7.text" = "Side Lunges";
+
+/* Class = "IBUIBarButtonItem"; title = "Menu"; ObjectID = "wSf-8y-0Pj"; */
+"wSf-8y-0Pj.title" = "Menu";
+
+/* Class = "IBUILabel"; text = "(20 comments)"; ObjectID = "wYe-SK-o6r"; */
+"wYe-SK-o6r.text" = "(20 comments)";
+
+/* Class = "IBUINavigationItem"; title = "Start Workout"; ObjectID = "wfo-b4-TEJ"; */
+"wfo-b4-TEJ.title" = "Start Workout";
+
+/* Class = "IBUILabel"; text = "$ X"; ObjectID = "x7Y-gO-hfC"; */
+"x7Y-gO-hfC.text" = "$ X";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "xCT-RC-4yE"; */
+"xCT-RC-4yE.text" = "1";
+
+/* Class = "IBUILabel"; text = "(Member since: mm/dd/yy)"; ObjectID = "xEi-Zz-TMu"; */
+"xEi-Zz-TMu.text" = "(Member since: mm/dd/yy)";
+
+/* Class = "IBUILabel"; text = "Back"; ObjectID = "xbD-bd-2Op"; */
+"xbD-bd-2Op.text" = "Back";
+
+/* Class = "IBUILabel"; text = "Time:"; ObjectID = "xbE-zJ-rlG"; */
+"xbE-zJ-rlG.text" = "Time:";
+
+/* Class = "IBUILabel"; text = "Enter your code:"; ObjectID = "xcd-vw-h9W"; */
+"xcd-vw-h9W.text" = "Enter your code:";
+
+/* Class = "IBUITextView"; text = " 6`Breakfast Sandwich  -Roasted garlic bread -Chicken strip -Egg white patty -Lettuce, Onion, Olives -Light mayonnaise"; ObjectID = "xgQ-b0-rhk"; */
+"xgQ-b0-rhk.text" = " 6`Breakfast Sandwich  -Roasted garlic bread -Chicken strip -Egg white patty -Lettuce, Onion, Olives -Light mayonnaise";
+
+/* Class = "IBUILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dollor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque."; ObjectID = "xy8-df-LRv"; */
+"xy8-df-LRv.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dollor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque.";
+
+/* Class = "IBUILabel"; text = "Side Lunges"; ObjectID = "xyO-Ui-9Or"; */
+"xyO-Ui-9Or.text" = "Side Lunges";
+
+/* Class = "IBUIButton"; normalTitle = "Achievements"; ObjectID = "y0L-Ba-gqd"; */
+"y0L-Ba-gqd.normalTitle" = "Achievements";
+
+/* Class = "IBUIButton"; normalTitle = "Copy Workout"; ObjectID = "yLR-eu-LXb"; */
+"yLR-eu-LXb.normalTitle" = "Copy Workout";
+
+/* Class = "IBUILabel"; text = "Book  a meeting"; ObjectID = "yuG-jC-0Vo"; */
+"yuG-jC-0Vo.text" = "Book  a meeting";
+
+/* Class = "IBUITextField"; placeholder = "AM"; ObjectID = "z6I-rI-Nj7"; */
+"z6I-rI-Nj7.placeholder" = "AM";
+
+/* Class = "IBUILabel"; text = "Add Before/After Photo"; ObjectID = "zCC-GE-fKs"; */
+"zCC-GE-fKs.text" = "Add Before/After Photo";
+
+/* Class = "IBUITextField"; placeholder = "Beginner"; ObjectID = "zMk-8X-c1m"; */
+"zMk-8X-c1m.placeholder" = "Beginner";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "zU1-n4-SyY"; */
+"zU1-n4-SyY.text" = "3";
+
+/* Class = "IBUILabel"; text = "Add this exercise to my workouts"; ObjectID = "zZs-fC-Jf7"; */
+"zZs-fC-Jf7.text" = "Add this exercise to my workouts";
+
+/* Class = "IBUILabel"; text = "Submit"; ObjectID = "zdS-ZL-MhE"; */
+"zdS-ZL-MhE.text" = "Submit";
+
+/* Class = "IBUIButton"; normalTitle = "View All"; ObjectID = "zg7-FP-jLy"; */
+"zg7-FP-jLy.normalTitle" = "View All";
+
+/* Class = "IBUILabel"; text = "Equipment:"; ObjectID = "zlF-Iz-Sle"; */
+"zlF-Iz-Sle.text" = "Equipment:";
+
+/* Class = "IBUILabel"; text = "(Member since: mm/dd/yy)"; ObjectID = "znt-w1-k2U"; */
+"znt-w1-k2U.text" = "(Member since: mm/dd/yy)";
+
+/* Class = "IBUIButton"; normalTitle = "Workout Library"; ObjectID = "zpL-iU-0eP"; */
+"zpL-iU-0eP.normalTitle" = "Workout Library";
+
+/* Class = "IBUILabel"; text = "3"; ObjectID = "zxa-LA-N8r"; */
+"zxa-LA-N8r.text" = "3";

@@ -1,0 +1,315 @@
+/* 
+  Localizable.strings
+  WorkMeOut
+
+  Created by AdminStar on 28/2/15.
+  Copyright (c) 2015 Gorou. All rights reserved.
+*/
+
+"Select your language"              = "اختر لغتك";
+"Get Started"                       = "ابدأ الآن";
+"Login"                             = "تسجيل الدخول";
+
+// SignUp
+
+"Sign Up"                           = "متدرب جديد";
+"Name"                              = "الاسم";
+"Phone"                             = "الهاتف";
+"Optional"                          = "اختياري";
+"Email"                             = "البريد الإلكتروني";
+"Gender"                            = "النوع";
+"Date of birth"                     = "تاريخ الميلاد";
+"Nationality"                       = "الجنسية";
+"Country of residence"              = "بلد الإقامة";
+"I accept the terms"                = "أوافق على شروط الاستخدام";
+"Submit"                            = "تسجيل";
+
+// Welcome
+"Managed By"                        = "إدارة";
+"Continue"                          = "استمرار";
+
+// Login
+"Username"                          = "اسم المستخدم";
+"Password"                          = "كلمة المرور";
+"Forgot Password ?"                 = "هل نسيت كلمة المرور ؟";
+"Sign Up"                           = "تسجيل متدرب جديد";
+"Login"                             = "تسجيل الدخول";
+"Invalid email / password, please try again." = "اسم المستخدم / كلمة المرور خطأ، برجاء إعادة المحاولة";
+
+// Forgot Password
+"forgot_alert01" = "برجاء إدخال بريدك الإلكتورني الذي أنشات به حسابك على البرنامج لكي تحصل على بيانات تغيير كلمة المرور من خلاله";
+
+"forgot_alert02" = "من فضلك أدخل رقم هاتفك المحمول وسنرسل لك إرشادات تغيير كلمة المرور عبر رسالة نصية قصيرة";
+
+"Submit"                            = "إرسال";
+
+// DashBoard
+"Dashboard"                         = "الرئيسية";
+"My Profile"                        = "بياناتي";
+"View Profile"                      = "عرض البيانات";
+"Start Building Workouts"           = "أضف برنامجك الرياضي";
+"Workouts (ongoing)"                = "(برامج التمرين (الحالية";
+"View all"                          = "عرض الجميع ";
+"Go to workout"                     = "ابدأ التمرين";
+"View Diet Plan"                    = "عرض خطة الغذاء";
+"Get assisted by a trainer"         = "أحصل على مساعدة مدرب";
+"Achievements"                      = "الإنجازات";
+"Before / After"                    = "قبل وبعد";
+"Restaurants"                       = "المطاعم";
+"Workout Library"                   = "مكتبة التمارين";
+"Directory"                         = "صالات ومتاجر";
+"Articles"                          = "مواضيع";
+"Ask Us"                            = "اسألنا";
+
+// Select Trainer
+"Our Trainers"                      = "مدربينا";
+"I am an international customer"    = "أنا عميل دوليد";
+"Book a meeting"                    = "احجز مقابلة";
+
+// Trainer`s Calendar
+"Select Program & Date"             = "اختيار البرنامج والموعد";
+"Select an appropriate program"     = "اختر البرنامج المناسب لك";
+"Select an appropriate date for the meeting" = "اختر التاريخ المناسب للمقابلة";
+
+"Available"                         = "متاح";
+"Unavailable"                       = "غير متاح";
+"Next"                              = "التالي";
+
+// Book a Meeting
+"Trainer :"                         = "المدرب :";
+"Program selected :"                = "البرنامج المختار :";
+"Amount to pay :"                   = "قيمة الدفع :";
+"Time"                              = "الوقت";
+"Select an appropriate meeting time" = "اختر الوقت المناسب للمقابلة";
+"AM , PM"                           = "صباحاً، مساءً";
+"Payment Method"                    = "طريقة الدفع";
+"Apple Store"                       = "متجر آبل";
+"Play Store"                        = "متجر بلاي";
+"KNET"                              = "KNET";
+"Submit"                            = "إرسال";
+"Success!"                          = "تمت العملية بنجاح!";
+"Book_alert01" = "تمت عملية الدفع بنجاح. وتم حجز موعد المقابلة مع المدرب: <الاسم> الوقت: 10:30 صباحًا في اليوم/الشهر/السنة";
+"Close"                             = "إغلاق";
+
+// Workout Library
+"Exercises Library"                 = "مكتبة التمارين";
+"Triceps"                           = "التراي";
+"Biceps"                            = "الباي";
+"Shoulders"                         = "الأكتاف";
+"Chest"                             = "الصدر";
+"Back"                              = "الظهر";
+"Forearms"                          = "السواعد";
+"Gluts"                             = "الأفخاذ";
+"Abs"                               = "البطن";
+"Lower Legs"                        = "(الأرجل (سفلي";
+"Upper Legs"                        = "(الأرجل (علوي";
+"Cardio"                            = "التمارين الهوائية";
+"All"                               = "الكل";
+
+// Navigation Menu
+"My Workouts"                       = "برامجي الرياضية";
+"My Activities"                     = "نشاطاتي";
+"Achievements"                      = "إنجازاتي";
+"Workout Library"                   = "مكتبة التمارين";
+"My Favorite Exercises"             = "تماريني المفضلة";
+"Get a Trainer"                     = "أحصل على مدرب";
+"Main Menu"                         = "القائمة الرئيسية";
+
+// Exercise Page
+"Primary Muscle"                    = "العضلة الأساسية";
+"Secondary Muscle"                  = "العضلة الثانوية";
+"Equipment"                         = "الجهاز المستخدم";
+
+"My Favorites"                      = "تماريني المفضلة";
+"My Workouts"                       = "تماريني";
+"My Workout Routines"               = "برامجي التمرينية";
+
+// Program Details
+"Program Details"                   = "تفاصيل برنامج التمرين";
+"View Diet Plan"                    = "عرض خطة الغذاء";
+
+// Exercise List
+"End Workout"                       = "إنهاء التمرين";
+"Workout Summary"                   = "ملخص التمرين";
+"Session Length"                    = "مدة جلسة التمرين";
+"Actual Workout"                    = "مدة التمرين الفعلية";
+"Rest Time"                         = "مدة الراحة";
+"Wasted Time"                       = "الوقت الضائع";
+"Exercises Done"                    = "عدد التدريبات التي تمت";
+"Close"                             = "إغلاق";
+"End Session"                       = "إنهاء جلسة التمرين";
+"Are you sure to end current workout session?" = "هل أنت متأكد من إنهاء جلسة التمارين الحالية ؟";
+
+// Start Workout
+"Elapsed Time"                      = "الوقت الماضي";
+"Countdown"                         = "الوقت المتبقي";
+"Reset Timer"                       = "إعادة ضبط المؤقت";
+"Duration"                          = "المدة";
+"Sets"                              = "المجموعات";
+"Repetitions"                       = "التكرار";
+"Start Workout"                     = "بدء التمرين";
+"End Workout"                       = "إنهاء التمرين";
+
+// Create Program
+"Create Program"                    = "إضافة برنامج تمرين";
+"Program Name"                      = "اسم البرنامج";
+"Enter an appropriate program name" = "أدخل اسم مناسب لبرنامجك الرياضي";
+
+"Difficulty"                        = "المستوى";
+"Beginner"                          = "مبتدئ";
+"Intermediate"                      = "متوسط";
+"Advanced"                          = "متقدم";
+"Type"                              = "نوع البرنامج";
+"General Fitness"                   = "لياقة عامة";
+"Bulking"                           = "تضخيم";
+"Cutting"                           = "تنشيف";
+"Sport Specific"                    = "خاص برياضة معينة";
+"Frequency"                         = "عدد أيام التمرين بالأسبوع";
+"Select number of days per week you would like to be involved in the workouts"  = "اختر عدد الأيام في الأسبوع التي تريد أن تتمرن خلالها";
+
+"Comments"                          = "تعليقات";
+"Include some comments for this program"  = "أكتب تعليقاً عن برنامجك الرياضي";
+
+"Create Schedule"                   = "إنشاء جدول التمرين";
+
+// Create Schedule
+"Workout day name"                  = "اسم يوم التمرين";
+"Select a workout day"              = "اختر يوم التمرين";
+"Add Exercises"                     = "أضف التمارين";
+
+// Select Body part
+"Select body part"                  = "اختر جزء الجسم";
+"Not sure? Get assistance!!"        = "لست متأكد؟ أحصل على مساعدة الآن!!";
+
+// My Diet Plan
+"Breakfast"                         = "الفطور";
+"Lunch"                             = "الغداء";
+"Dinner"                            = "العشاء";
+"View Workouts"                     = "عرض التمارين";
+"Kcal"                              = "سعرة حرارية";
+
+// Nutrition facts & Restaurants
+"Nutrition facts & Restaurants"     = "المعلومات الغذائية والمطاعم";
+"Popularity"                        = "الشعبية";
+"Alphabetically"                    = "أبجدي";
+
+// Meal profiles
+
+"Meals - <Restaurnat Name>"         = "<الوجبات - <اسم المطعم";
+"Popularity"                        = "الشعبية";
+"Alphabetically"                    = "أبجدي";
+"All Meals"                         = "كل الوجبات";
+"Breakfast"                         = "الفطور";
+"Lunch"                             = "الغداء";
+"Dinner"                            = "العشاء";
+"Food below 500 cal"                = "وجبات أقل من 500 سعرة";
+
+// Nutrition Facts
+"Amount per serving"                = "الكمية لكل وجبة";
+"Calories"                          = "السعرات الحرارية";
+"Fats"                              = "الدهون";
+"Saturated"                         = "مشبّعة";
+"Trans"                             = "متحولة";
+"Cholesterol"                       = "الكولسترول";
+"Gm"                                = "جرام";
+"Carbohydrates"                     = "كربوهيدرات";
+"Fibers"                            = "الألياف";
+"Sugar"                             = "السكر";
+"Sodium"                            = "الصوديوم";
+"Protein"                           = "البروتين";
+"Vitamin"                           = "فيتامين";
+"Calcium"                           = "الكالسيوم";
+"Ingredients"                       = "المكونات";
+
+// Profile
+"My Profile"                        = "بياناتي";
+"My Profile Info"                   = "بياناتي";
+"Male"                              = "ذكر";
+"Female"                            = "أنثى";
+"Yrs"                               = "عاماً";
+"Cm"                                = "سم";
+"Kg"                                = "كجم";
+"I am allergic to"                  = "أعاني الحاسسية من";
+"Foods I don't like"                = "الطعام الغير مرغوب لدي";
+"My Health Condition"               = "حالتي الصحية";
+"Special Notes"                     = "ملاحظات خاصة";
+
+// Navigation
+"Add Photos"                        = "إضافة صور";
+
+// Edit Profile Info
+"Enter your full name"              = "أدخل اسمك بالكامل";
+"Enter your age"                    = "أدخل عمرك";
+"Years"                             = "عاماً";
+"Enter your height"                 = "أدخل طولك";
+"Inch"                              = "بوصة";
+"Enter your weight"                 = "أدخل وزنك";
+"Pound"                             = "رطل";
+"Enter gender"                      = "أدخل النوع";
+
+// Edit Allergies
+"Enter names of food you are allergic to" = "أدخل أسماء الأطعمة التي تعاني الحساسية منها";
+
+"Save"                              = "إضافة";
+"Enter names of food you don't like"    = "أدخل أسماء الأطعمة التي لا ترغب بها";
+
+// Edit Healthy Condition
+"My Health Condition"               = "حالتي الصحية";
+"Very healthy"                      = "صحي جدًا";
+"Moderately healthy"                = "صحي نسبياً";
+"Not healty"                        = "غير صحي";
+"Special Notes"                     = "ملاحظات خاصة";
+
+// My Photo
+"Before"                            = "قبل";
+"After"                             = "بعد";
+"Comments"                          = "تعليق";
+"Add before/after photo"            = "أضف صورة";
+"Double tap here to add a photo"    = "اضغط هنا مرتين لإضافة صورة";
+
+// My Achievement
+"My Achievements"                   = "إنجازاتي";
+"The longer you work, the more you earn" = "أضف صورة";
+
+"Mins"                              = "دقيقة";
+"Share"                             = "مشاركة";
+
+
+// Activities
+"My Activities"                     = "نشاطاتي";
+"Completed"                         = "المكتملة";
+"In Progress"                       = "الحالية";
+"Go to Workout"                     = "ابدء التمرين";
+
+// Article Categories
+"Articles"                          = "المواضيع";
+"Article"                           = "موضوع";
+
+"Articles - <Category Name>"        = "<المواضيع - <اسم نوع المواضيع";
+"Views"                             = "مشاهدة";
+
+"Description"                       = "الموضوع";
+
+// Directories
+"Directories"                       = "الصالات والمتاجر";
+"Healthy Choices"                   = "خيارات صحية";
+"Gym Directories"                   = "صالات التمرين";
+"Supplement Stores"                 = "متاجر المنتجات الصحية";
+
+"Reviews"                           = "تعليقات";
+"Read more"                         = "قراءة المزيد";
+"Read All Reviews"                  = "قراءة كل التعليقات";
+
+// Contact Us
+"Contact Us"                        = "اتصل بنا";
+"Select Trainer"                    = "مدرباً";
+"Please ask your question here"     = "برجاء اسأل سؤالك هنا";
+
+
+
+
+
+
+
+
+

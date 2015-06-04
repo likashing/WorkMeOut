@@ -1,0 +1,117 @@
+/*
+ Localizable.strings
+ WorkMeOut
+ 
+ Created by LiKaShing on 28/2/15.
+ Copyright (c) 2015 LiKaShing. All rights reserved.
+ */
+
+"Select your language"              = "Select your language";
+"Get Started"                       = "Get Started";
+"Login"                             = "Login";
+
+// SignUp
+
+"Sign Up"                           = "Sign Up";
+"Name"                              = "Name";
+"Phone"                             = "Phone";
+"Optional"                          = "(Optional)";
+"Email"                             = "Email";
+"Gender"                            = "Gender";
+"Date of birth"                     = "Date of birth";
+"Nationality"                       = "Nationality";
+"Country of residence"              = "Country of residence";
+"I accept the "                     = "I accept the ";
+"Terms"                             = "terms";
+"Submit"                            = "Submit";
+
+// Welcome
+"Welcome"                           = "Welcome";
+"Managed By"                        = "Managed By";
+"Continue"                          = "Continue";
+
+// Login
+"Username"                          = "Username";
+"Password"                          = "Password";
+"Forgot"                            = "Forgot";
+"Forgot Password ?"                 = "Forgot Password ?";
+"Sign Up"                           = "Sign Up";
+"Login"                             = "Login";
+"Invalid email / password, please try again." = "Invalid email / password, please try again.";
+
+// Forgot Password
+"Forgot Password"                 = "Forgot Password";
+"forgot_alert01"                  = "Please enter your email address you used during registration to retrieve password reset information through email";
+
+"forgot_alert02"                  = "Please enter your phone number and we will send password reset instructions through SMS";
+
+"Submit"                            = "Submit";
+
+// DashBoard
+"Dashboard"                         = "Dashboard";
+"My Profile"                        = "My Profile";
+"View Profile"                      = "View Profile";
+"Start Building Workouts"           = "Start Building Workouts";
+"Workouts (ongoing)"                = "Workouts (ongoing)";
+"View all"                          = "View all";
+"Go to workout"                     = "Go to workout";
+"View Diet Plan"                    = "View Diet Plan";
+"Get assisted by a trainer"         = "Get assisted by a trainer";
+"Achievements"                      = "Achievements";
+"Before / After"                    = "Before / After";
+"Restaurants"                       = "Restaurants";
+"Workout Library"                   = "Workout Library";
+"Directory"                         = "Directory";
+"Articles"                          = "Articles";
+"Ask Us"                            = "Ask Us";
+
+// Select Trainer - ?
+"Our Trainers"                      = "Our Trainers";
+"I am an international customer"    = "I am an international customer";
+"Book a meeting"                    = "Book a meeting";
+
+// Trainer`s Calendar - ?
+"Select Program & Date"             = "Select Program & Date";
+"Select an appropriate program"     = "Select an appropriate program";
+"Select an appropriate date for the meeting" = "Select an appropriate date for the meeting";
+
+"Available"                         = "Available";
+"Unavailable"                       = "Unavailable";
+"Next"                              = "Next";
+
+// Book a Meeting - ?
+"Trainer :"                         = "Trainer :";
+"Program selected :"                = "Program selected :";
+"Amount to pay :"                   = "Amount to pay :";
+"Time"                              = "Time";
+"Select an appropriate meeting time" = "Select an appropriate meeting time";
+"AM , PM"                           = "AM , PM";
+"Payment Method"                    = "Payment Method";
+"Apple Store"                       = "Apple Store";
+"Play Store"                        = "Play Store";
+"KNET"                              = "KNET";
+"Submit"                            = "Submit";
+"Success!"                          = "Success!";
+"Book_alert01" = "Payment is done successfully. Your meeting is booked with Trainer : <first name> Time: 10:30 AM on dd/mm/yyyy";
+"Close"                             = "Close";
+
+// Workout Library
+"Exercises Library"                 = "Exercises Library";
+"Abdominal"                         = "Abdominal";
+"Calves"                            = "Calves";
+"Hamstring"                         = "Hamstring";
+"Quadriceps"                        = "Quadriceps";
+"Trapezius"                         = "Trapezius";
+"Triceps"                           = "Triceps";
+"Biceps"                            = "Biceps";
+"Shoulders"                         = "Shoulders";
+"Chest"                             = "Chest";
+"Back"                              = "Back";
+"Forearms"                          = "Forearms";
+"Gluts"                             = "Gluts";
+"Abs"                               = "Abs";
+"Lower Legs"                        = "Lower Legs";
+"Upper Legs"                        = "Upper Legs";
+"Cardio"                            = "Cardio";
+"All"                               = "All";
+
